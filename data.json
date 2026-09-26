@@ -1,0 +1,4582 @@
+[
+  {
+    "slug": "ecommerce-dtc",
+    "business_type": "Ecommerce / DTC online stores (Shopify, WooCommerce)",
+    "title": "10 open-source repos to build AI for online stores",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "medusajs/medusa",
+        "url": "https://github.com/medusajs/medusa",
+        "stars": 36472,
+        "what": "Headless commerce engine to build a custom store backend",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "bagisto/bagisto",
+        "url": "https://github.com/bagisto/bagisto",
+        "stars": 28173,
+        "what": "Laravel store and multi-vendor marketplace, ready to extend",
+        "pushed_at": "2026-09-23",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "saleor/saleor",
+        "url": "https://github.com/saleor/saleor",
+        "stars": 23377,
+        "what": "GraphQL headless commerce API for custom storefronts",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "recommenders-team/recommenders",
+        "url": "https://github.com/recommenders-team/recommenders",
+        "stars": 21921,
+        "what": "Proven recipes for 'customers also bought' product recommendations",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "spree/spree",
+        "url": "https://github.com/spree/spree",
+        "stars": 15724,
+        "what": "Open-source platform for DTC, B2B and marketplace stores",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "vercel/commerce",
+        "url": "https://github.com/vercel/commerce",
+        "stars": 14280,
+        "what": "Next.js storefront starter that plugs into Shopify and others",
+        "pushed_at": "2026-08-13",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "woocommerce/woocommerce",
+        "url": "https://github.com/woocommerce/woocommerce",
+        "stars": 10536,
+        "what": "The WordPress store plugin most small shops already run",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "evershopcommerce/evershop",
+        "url": "https://github.com/evershopcommerce/evershop",
+        "stars": 10495,
+        "what": "TypeScript store platform with modular, hackable extensions",
+        "pushed_at": "2026-09-17",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "PrestaShop/PrestaShop",
+        "url": "https://github.com/PrestaShop/PrestaShop",
+        "stars": 9220,
+        "what": "Mature PHP store platform with a huge module marketplace",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 10,
+        "name": "vendurehq/vendure",
+        "url": "https://github.com/vendurehq/vendure",
+        "stars": 8476,
+        "what": "TypeScript headless commerce framework for custom store logic",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for online stores",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "anthropics/knowledge-work-plugins",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/small-business",
+        "stars": 25658,
+        "metric": null,
+        "what": "Small-business plugin: inventory planning, restock, ad and review skills",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "stripe/ai",
+        "type": "claude-plugin",
+        "url": "https://github.com/stripe/ai",
+        "stars": 1836,
+        "metric": null,
+        "what": "Stripe plugin and MCP: payments, refunds, subscriptions from Claude",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 3,
+        "name": "WordPress/mcp-adapter",
+        "type": "mcp-server",
+        "url": "https://github.com/WordPress/mcp-adapter",
+        "stars": 1763,
+        "metric": null,
+        "what": "Official WordPress MCP adapter that exposes WooCommerce store actions",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 4,
+        "name": "Shopify/Shopify-AI-Toolkit",
+        "type": "claude-plugin",
+        "url": "https://github.com/Shopify/Shopify-AI-Toolkit",
+        "stars": 577,
+        "metric": null,
+        "what": "Shopify's official skills for building apps, themes and store queries",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 5,
+        "name": "GeLi2001/shopify-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/GeLi2001/shopify-mcp",
+        "stars": 237,
+        "metric": null,
+        "what": "Lets Claude read and edit Shopify products, orders, customers",
+        "archived": false,
+        "pushed_at": "2026-04-05"
+      },
+      {
+        "rank": 6,
+        "name": "medusajs/medusa-agent-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/medusajs/medusa-agent-skills",
+        "stars": 223,
+        "metric": null,
+        "what": "Teaches coding agents Medusa store best practices",
+        "archived": false,
+        "pushed_at": "2026-09-22"
+      },
+      {
+        "rank": 7,
+        "name": "Cesarjoquin/shopify-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/Cesarjoquin/shopify-mcp",
+        "stars": 141,
+        "metric": null,
+        "what": "Shopify Admin MCP for Claude Desktop and Claude Code",
+        "archived": false,
+        "pushed_at": "2026-09-14"
+      },
+      {
+        "rank": 8,
+        "name": "techspawn/woocommerce-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/techspawn/woocommerce-mcp-server",
+        "stars": 103,
+        "metric": null,
+        "what": "Lets AI manage WooCommerce products, orders and customers",
+        "archived": false,
+        "pushed_at": "2025-11-10"
+      },
+      {
+        "rank": 9,
+        "name": "Shopify/liquid-skills",
+        "type": "claude-plugin",
+        "url": "https://github.com/Shopify/liquid-skills",
+        "stars": 35,
+        "metric": null,
+        "what": "Official Liquid theme coding skills for Shopify storefronts",
+        "archived": false,
+        "pushed_at": "2026-03-18"
+      },
+      {
+        "rank": 10,
+        "name": "paypal/AI-Toolkit",
+        "type": "claude-plugin",
+        "url": "https://github.com/paypal/AI-Toolkit",
+        "stars": 18,
+        "metric": null,
+        "what": "PayPal plugin and MCP for payments, invoices, subscriptions",
+        "archived": false,
+        "pushed_at": "2026-09-21"
+      }
+    ],
+    "notes": "List A caps generic tools at 2 (recommenders counts as generic ML). Shopify's hosted Dev MCP and Storefront MCP are npm/hosted, no public GitHub repo found, so not listed. No ChatGPT GPTs included: none found with a verifiable public usage metric. Also relevant but cut: amzn/selling-partner-agentic-toolkit (10 stars, Amazon sellers), Noibu/ai-plugin (5 stars). knowledge-work-plugins stars are for the whole repo."
+  },
+  {
+    "slug": "restaurants-cafes",
+    "business_type": "Restaurants, cafés, cloud kitchens",
+    "title": "10 open-source repos to build AI for restaurants",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "odoo/odoo",
+        "url": "https://github.com/odoo/odoo",
+        "stars": 54686,
+        "what": "ERP with restaurant POS, kitchen display and inventory modules",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "livekit/agents",
+        "url": "https://github.com/livekit/agents",
+        "stars": 14361,
+        "what": "Voice AI framework for phone orders and reservation bots",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "TandoorRecipes/recipes",
+        "url": "https://github.com/TandoorRecipes/recipes",
+        "stars": 8633,
+        "what": "Recipe, meal plan and shopping list manager with API",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "opensourcepos/opensourcepos",
+        "url": "https://github.com/opensourcepos/opensourcepos",
+        "stars": 4403,
+        "what": "Web point of sale for sales, stock and receipts",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "tastyigniter/TastyIgniter",
+        "url": "https://github.com/tastyigniter/TastyIgniter",
+        "stars": 3763,
+        "what": "Online ordering, table reservations and restaurant management platform",
+        "pushed_at": "2026-09-20",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "enatega/food-delivery-multivendor",
+        "url": "https://github.com/enatega/food-delivery-multivendor",
+        "stars": 1381,
+        "what": "Food delivery app: customer, rider, restaurant and admin",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "emreeren/SambaPOS-3",
+        "url": "https://github.com/emreeren/SambaPOS-3",
+        "stars": 552,
+        "what": "Touch-screen restaurant POS for tables, tickets and kitchen",
+        "pushed_at": "2022-06-22",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "ury-erp/ury",
+        "url": "https://github.com/ury-erp/ury",
+        "stars": 375,
+        "what": "Restaurant management system built on ERPNext",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "amritmaurya1504/Restaurant_POS_System",
+        "url": "https://github.com/amritmaurya1504/Restaurant_POS_System",
+        "stars": 301,
+        "what": "MERN restaurant POS for orders, tables and billing",
+        "pushed_at": "2025-03-02",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "ury-erp/mosaic",
+        "url": "https://github.com/ury-erp/mosaic",
+        "stars": 46,
+        "what": "Kitchen display system for orders and KOT printing",
+        "pushed_at": "2025-11-04",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "9 AI add-ons for Claude/ChatGPT for restaurants",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "anthropics/knowledge-work-plugins",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/small-business",
+        "stars": 25658,
+        "metric": null,
+        "what": "Small-business plugin: inventory, restock, payroll, review reputation skills",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "cablate/mcp-google-map",
+        "type": "mcp-server",
+        "url": "https://github.com/cablate/mcp-google-map",
+        "stars": 464,
+        "metric": null,
+        "what": "Google Maps places and reviews lookup for local competitors",
+        "archived": false,
+        "pushed_at": "2026-09-16"
+      },
+      {
+        "rank": 3,
+        "name": "square/square-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/square/square-mcp-server",
+        "stars": 108,
+        "metric": null,
+        "what": "Official Square MCP: orders, catalog, payments, customers",
+        "archived": false,
+        "pushed_at": "2026-04-09"
+      },
+      {
+        "rank": 4,
+        "name": "Yelp/yelp-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/Yelp/yelp-mcp",
+        "stars": 26,
+        "metric": null,
+        "what": "Official Yelp MCP for local business search and reviews",
+        "archived": false,
+        "pushed_at": "2026-04-02"
+      },
+      {
+        "rank": 5,
+        "name": "BusyBee3333/toast-mcp-2026-complete",
+        "type": "mcp-server",
+        "url": "https://github.com/BusyBee3333/toast-mcp-2026-complete",
+        "stars": 14,
+        "metric": null,
+        "what": "Unofficial Toast POS MCP: menus, orders, labor reports",
+        "archived": false,
+        "pushed_at": "2026-08-28"
+      },
+      {
+        "rank": 6,
+        "name": "sumup/sumup-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/sumup/sumup-skills",
+        "stars": 5,
+        "metric": null,
+        "what": "Official SumUp skills for terminal and online checkout",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 7,
+        "name": "jrklein343-svg/restaurant-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/jrklein343-svg/restaurant-mcp",
+        "stars": 4,
+        "metric": null,
+        "what": "Search and book tables across Resy and OpenTable",
+        "archived": false,
+        "pushed_at": "2026-02-09"
+      },
+      {
+        "rank": 8,
+        "name": "chrischall/opentable-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/chrischall/opentable-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "OpenTable reservations: find slots, book, cancel",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 9,
+        "name": "KRASA-AI/restaurant-ai-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/KRASA-AI/restaurant-ai-skills",
+        "stars": 0,
+        "metric": null,
+        "what": "Free prompt skills for restaurant marketing and operations",
+        "archived": false,
+        "pushed_at": "2026-07-31"
+      }
+    ],
+    "notes": "Only 9 add-ons: restaurant-specific AI add-ons are thin; most restaurant MCPs have under 20 stars. OpenTable/Resy MCPs are diner-side (booking), not owner-side. Toast MCP is unofficial. No GPTs with verifiable metrics found. List A: livekit/agents is the one generic pick; mealie/Tandoor are recipe managers (home-first, usable for kitchen recipes). SambaPOS-3 last pushed 2022. Few maintained open-source restaurant POS repos exist; URY (ERPNext-based) is the most active restaurant-specific one. OpenTable/Resy add-ons are diner-side booking tools, not owner tools."
+  },
+  {
+    "slug": "real-estate",
+    "business_type": "Real estate agencies & brokers",
+    "title": "10 open-source repos to build AI for real estate agencies",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "twentyhq/twenty",
+        "url": "https://github.com/twentyhq/twenty",
+        "stars": 57525,
+        "what": "Open-source AI-ready CRM to track leads and deals",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "orangecoding/fredy",
+        "url": "https://github.com/orangecoding/fredy",
+        "stars": 1536,
+        "what": "Watches listing sites and alerts on new matching properties",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "microrealestate/microrealestate",
+        "url": "https://github.com/microrealestate/microrealestate",
+        "stars": 1192,
+        "what": "Landlord app for leases, rents, tenants and documents",
+        "pushed_at": "2026-09-01",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "flathunters/flathunter",
+        "url": "https://github.com/flathunters/flathunter",
+        "stars": 1063,
+        "what": "Bot that scrapes rental listings and sends alerts",
+        "pushed_at": "2026-04-19",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "ZacharyHampton/HomeHarvest",
+        "url": "https://github.com/ZacharyHampton/HomeHarvest",
+        "stars": 746,
+        "what": "Python scraper for property listings and sold data",
+        "pushed_at": "2025-12-26",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "etewiah/property_web_builder",
+        "url": "https://github.com/etewiah/property_web_builder",
+        "stars": 643,
+        "what": "Build a full real estate listings website on Rails",
+        "pushed_at": "2026-09-09",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "open-condo-software/condo",
+        "url": "https://github.com/open-condo-software/condo",
+        "stars": 410,
+        "what": "Property management SaaS for residents, tickets and payments",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "prolinkinfo/RealEstateCRM",
+        "url": "https://github.com/prolinkinfo/RealEstateCRM",
+        "stars": 355,
+        "what": "CRM built for real estate agents",
+        "pushed_at": "2025-02-27",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "AleksNeStu/ai-real-estate-assistant",
+        "url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
+        "stars": 311,
+        "what": "AI property search with RAG and valuation forecasts",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "brightdata/real-estate-ai-agent",
+        "url": "https://github.com/brightdata/real-estate-ai-agent",
+        "stars": 158,
+        "what": "AI agent extracting structured property data from listing pages",
+        "pushed_at": "2025-07-30",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for real estate agencies",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "anthropics/knowledge-work-plugins",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/small-business",
+        "stars": 25658,
+        "metric": null,
+        "what": "Small-business plugin: speed-to-lead, lead triage, CRM autopilot skills",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "cablate/mcp-google-map",
+        "type": "mcp-server",
+        "url": "https://github.com/cablate/mcp-google-map",
+        "stars": 464,
+        "metric": null,
+        "what": "Maps, places and commute lookups for listing neighborhoods",
+        "archived": false,
+        "pushed_at": "2026-09-16"
+      },
+      {
+        "rank": 3,
+        "name": "tae0y/real-estate-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/tae0y/real-estate-mcp",
+        "stars": 378,
+        "metric": null,
+        "what": "Korean apartment price data for Claude",
+        "archived": false,
+        "pushed_at": "2026-07-18"
+      },
+      {
+        "rank": 4,
+        "name": "ahacker-1/cre-agent-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/ahacker-1/cre-agent-skills",
+        "stars": 105,
+        "metric": null,
+        "what": "Commercial real estate underwriting and due diligence skills",
+        "archived": false,
+        "pushed_at": "2026-09-02"
+      },
+      {
+        "rank": 5,
+        "name": "agentic-ops/real-estate-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/agentic-ops/real-estate-mcp",
+        "stars": 65,
+        "metric": null,
+        "what": "MCP for property search, valuation and market analysis",
+        "archived": false,
+        "pushed_at": "2026-08-26"
+      },
+      {
+        "rank": 6,
+        "name": "sap156/zillow-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/sap156/zillow-mcp-server",
+        "stars": 49,
+        "metric": null,
+        "what": "Zillow listings and property data access via MCP",
+        "archived": false,
+        "pushed_at": "2025-05-08"
+      },
+      {
+        "rank": 7,
+        "name": "ashev87/propstack-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/ashev87/propstack-mcp",
+        "stars": 9,
+        "metric": null,
+        "what": "Connects Claude or ChatGPT to Propstack real estate CRM",
+        "archived": false,
+        "pushed_at": "2026-07-01"
+      },
+      {
+        "rank": 8,
+        "name": "KRASA-AI/real-estate-ai-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/KRASA-AI/real-estate-ai-skills",
+        "stars": 7,
+        "metric": null,
+        "what": "Free prompt skills for listings, follow-ups, market reports",
+        "archived": false,
+        "pushed_at": "2026-07-31"
+      },
+      {
+        "rank": 9,
+        "name": "mgkcloud/vapi-property-caller-cookie-cutter",
+        "type": "other",
+        "url": "https://github.com/mgkcloud/vapi-property-caller-cookie-cutter",
+        "stars": 7,
+        "metric": null,
+        "what": "Voice AI agent toolkit for calling property leads",
+        "archived": false,
+        "pushed_at": "2025-01-17"
+      },
+      {
+        "rank": 10,
+        "name": "gca-ltd/qobrix-crm-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/gca-ltd/qobrix-crm-mcp",
+        "stars": 3,
+        "metric": null,
+        "what": "Qobrix real estate CRM MCP, 64 tools, RESO standard",
+        "archived": false,
+        "pushed_at": "2026-08-22"
+      }
+    ],
+    "notes": "Real estate MCPs are mostly small and country-specific: tae0y is Korea-only, Propstack is Germany-focused, Qobrix is Cyprus/Greece. Zillow MCP last pushed 2025-05. No official MLS/RESO MCP found. No GPTs with verifiable metrics found. List A: twenty is the one generic pick; HomeHarvest/flathunter/fredy are scrapers, check listing sites' terms. ChatGPT review: microrealestate and condo are landlord/property-management tools rather than broker tools."
+  },
+  {
+    "slug": "law-firms",
+    "business_type": "Law firms & legal practices",
+    "title": "10 open-source repos to build AI for law firms",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "open-legal-products/mike",
+        "url": "https://github.com/open-legal-products/mike",
+        "stars": 4281,
+        "what": "Open-source legal AI platform for document review and drafting",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "Open-Source-Legal/OpenContracts",
+        "url": "https://github.com/Open-Source-Legal/OpenContracts",
+        "stars": 1486,
+        "what": "Document intelligence platform to annotate and analyze contracts",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "freelawproject/courtlistener",
+        "url": "https://github.com/freelawproject/courtlistener",
+        "stars": 1032,
+        "what": "Searchable archive of US court opinions, dockets and judges",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "jhpyle/docassemble",
+        "url": "https://github.com/jhpyle/docassemble",
+        "stars": 988,
+        "what": "Guided client interviews that auto-assemble legal documents",
+        "pushed_at": "2026-09-21",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "LexPredict/lexpredict-lexnlp",
+        "url": "https://github.com/LexPredict/lexpredict-lexnlp",
+        "stars": 795,
+        "what": "NLP library for extracting terms, dates, amounts from legal text",
+        "pushed_at": "2024-05-27",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "ICLRandD/Blackstone",
+        "url": "https://github.com/ICLRandD/Blackstone",
+        "stars": 698,
+        "what": "spaCy model for NLP on unstructured legal text",
+        "pushed_at": "2024-07-16",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "freelawproject/juriscraper",
+        "url": "https://github.com/freelawproject/juriscraper",
+        "stars": 641,
+        "what": "Scrapes American court websites for new opinions",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "HazyResearch/legalbench",
+        "url": "https://github.com/HazyResearch/legalbench",
+        "stars": 640,
+        "what": "Benchmark to test how well AI handles legal reasoning",
+        "pushed_at": "2026-03-30",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "The-Atticus-Project/cuad",
+        "url": "https://github.com/The-Atticus-Project/cuad",
+        "stars": 561,
+        "what": "Labeled contract dataset for training clause-review AI",
+        "pushed_at": "2023-07-13",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "lawglance/lawglance",
+        "url": "https://github.com/lawglance/lawglance",
+        "stars": 323,
+        "what": "Free RAG-based AI legal assistant",
+        "pushed_at": "2026-09-21",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for law firms",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "anthropics/knowledge-work-plugins",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/legal",
+        "stars": 25658,
+        "metric": null,
+        "what": "Anthropic legal plugin: contract review, NDA triage, compliance checks",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "anthropics/claude-for-legal",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/claude-for-legal",
+        "stars": 9535,
+        "metric": null,
+        "what": "Anthropic's suite of plugins for legal workflows",
+        "archived": false,
+        "pushed_at": "2026-09-24"
+      },
+      {
+        "rank": 3,
+        "name": "zubair-trabzada/ai-legal-claude",
+        "type": "claude-skill",
+        "url": "https://github.com/zubair-trabzada/ai-legal-claude",
+        "stars": 1756,
+        "metric": null,
+        "what": "Claude Code skill for contract review and risk analysis",
+        "archived": false,
+        "pushed_at": "2026-03-27"
+      },
+      {
+        "rank": 4,
+        "name": "evolsb/claude-legal-skill",
+        "type": "claude-skill",
+        "url": "https://github.com/evolsb/claude-legal-skill",
+        "stars": 453,
+        "metric": null,
+        "what": "Contract review skill with CUAD risk detection",
+        "archived": false,
+        "pushed_at": "2026-07-23"
+      },
+      {
+        "rank": 5,
+        "name": "rohasnagpal/legal-ai-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/rohasnagpal/legal-ai-skills",
+        "stars": 150,
+        "metric": null,
+        "what": "Bundle of legal practice skills for AI agents",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 6,
+        "name": "ThomasMoreAI/legal-skills-open",
+        "type": "claude-skill",
+        "url": "https://github.com/ThomasMoreAI/legal-skills-open",
+        "stars": 78,
+        "metric": null,
+        "what": "Open library of legal SKILL.md files across 39 jurisdictions",
+        "archived": false,
+        "pushed_at": "2026-07-01"
+      },
+      {
+        "rank": 7,
+        "name": "Vaquill-AI/ms-word-addin",
+        "type": "other",
+        "url": "https://github.com/Vaquill-AI/ms-word-addin",
+        "stars": 73,
+        "metric": null,
+        "what": "AI legal assistant inside Word: contract review, playbooks",
+        "archived": false,
+        "pushed_at": "2026-09-06"
+      },
+      {
+        "rank": 8,
+        "name": "Mahender22/legal-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/Mahender22/legal-mcp",
+        "stars": 68,
+        "metric": null,
+        "what": "US case law, citations and practice tools via MCP",
+        "archived": false,
+        "pushed_at": "2026-06-19"
+      },
+      {
+        "rank": 9,
+        "name": "JamesANZ/us-legal-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/JamesANZ/us-legal-mcp",
+        "stars": 38,
+        "metric": null,
+        "what": "MCP server for searching US legislation",
+        "archived": false,
+        "pushed_at": "2026-04-20"
+      },
+      {
+        "rank": 10,
+        "name": "legalzoom/claude-plugins",
+        "type": "claude-plugin",
+        "url": "https://github.com/legalzoom/claude-plugins",
+        "stars": 0,
+        "metric": null,
+        "what": "LegalZoom plugin in Claude's official marketplace for legal documents",
+        "archived": false,
+        "pushed_at": "2026-02-20"
+      }
+    ],
+    "notes": "Most legal data repos (CourtListener, juriscraper, legal/us-legal MCPs) are US-centric; no Egyptian/Arabic law MCP found. LexNLP, Blackstone, CUAD are older (last pushed 2023-2024) but still standard. Cut: pengxiao-song/LaWGPT (6,061 stars) because it is Chinese-law only. knowledge-work-plugins stars are for the whole repo. legalzoom/claude-plugins has 0 GitHub stars but is listed in anthropics/claude-plugins-official. No GPTs with verifiable metrics found. ChatGPT review: HazyResearch/legalbench is an evaluation benchmark, kept for builders testing legal AI."
+  },
+  {
+    "slug": "accounting-bookkeeping",
+    "business_type": "Accounting & bookkeeping firms / small-business finance",
+    "title": "10 open-source repos to build AI for accounting firms",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "paperless-ngx/paperless-ngx",
+        "url": "https://github.com/paperless-ngx/paperless-ngx",
+        "stars": 46041,
+        "what": "Scan, OCR and file receipts and invoices automatically",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "akaunting/akaunting",
+        "url": "https://github.com/akaunting/akaunting",
+        "stars": 10143,
+        "what": "Online accounting software for small businesses",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "invoiceninja/invoiceninja",
+        "url": "https://github.com/invoiceninja/invoiceninja",
+        "stars": 10114,
+        "what": "Invoices, quotes, payments and time tracking app",
+        "pushed_at": "2026-09-22",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "crater-invoice-inc/crater",
+        "url": "https://github.com/crater-invoice-inc/crater",
+        "stars": 8349,
+        "what": "Invoicing and expense tracking for small businesses",
+        "pushed_at": "2024-08-10",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "ledger/ledger",
+        "url": "https://github.com/ledger/ledger",
+        "stars": 6043,
+        "what": "Command-line double-entry accounting with powerful reports",
+        "pushed_at": "2026-09-22",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "beancount/beancount",
+        "url": "https://github.com/beancount/beancount",
+        "stars": 6034,
+        "what": "Double-entry bookkeeping from plain text files",
+        "pushed_at": "2026-08-23",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "clusterzx/paperless-ai",
+        "url": "https://github.com/clusterzx/paperless-ai",
+        "stars": 5950,
+        "what": "AI that auto-tags and classifies scanned financial documents",
+        "pushed_at": "2026-09-19",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "frappe/books",
+        "url": "https://github.com/frappe/books",
+        "stars": 4985,
+        "what": "Free desktop accounting for small businesses",
+        "pushed_at": "2026-09-20",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "bigcapitalhq/bigcapital",
+        "url": "https://github.com/bigcapitalhq/bigcapital",
+        "stars": 3912,
+        "what": "Accounting with smart financial reports, QuickBooks alternative",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "beancount/smart_importer",
+        "url": "https://github.com/beancount/smart_importer",
+        "stars": 308,
+        "what": "Machine learning that auto-categorizes imported bank transactions",
+        "pushed_at": "2026-07-26",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for accounting firms",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "anthropics/financial-services",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/financial-services",
+        "stars": 37634,
+        "metric": null,
+        "what": "Anthropic plugins including GL reconciler and month-end closer agents",
+        "archived": false,
+        "pushed_at": "2026-09-21"
+      },
+      {
+        "rank": 2,
+        "name": "anthropics/knowledge-work-plugins",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/finance",
+        "stars": 25658,
+        "metric": null,
+        "what": "Finance plugin: reconciliation, journal entries, close, variance analysis",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 3,
+        "name": "stripe/ai",
+        "type": "claude-plugin",
+        "url": "https://github.com/stripe/ai",
+        "stars": 1836,
+        "metric": null,
+        "what": "Stripe MCP and plugin for payments, invoices, refunds",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 4,
+        "name": "intuit/quickbooks-online-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/intuit/quickbooks-online-mcp-server",
+        "stars": 402,
+        "metric": null,
+        "what": "Official QuickBooks MCP: read and write accounting data",
+        "archived": false,
+        "pushed_at": "2026-09-15"
+      },
+      {
+        "rank": 5,
+        "name": "XeroAPI/xero-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/XeroAPI/xero-mcp-server",
+        "stars": 371,
+        "metric": null,
+        "what": "Official Xero MCP for invoices, contacts, reports",
+        "archived": false,
+        "pushed_at": "2026-06-05"
+      },
+      {
+        "rank": 6,
+        "name": "oracle/netsuite-suitecloud-sdk",
+        "type": "claude-plugin",
+        "url": "https://github.com/oracle/netsuite-suitecloud-sdk",
+        "stars": 350,
+        "metric": null,
+        "what": "Hosts NetSuite finance-analyst plugin for live reporting and close",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 7,
+        "name": "XeroAPI/xero-agent-toolkit",
+        "type": "other",
+        "url": "https://github.com/XeroAPI/xero-agent-toolkit",
+        "stars": 55,
+        "metric": null,
+        "what": "Official examples for building AI agents on Xero",
+        "archived": false,
+        "pushed_at": "2025-08-08"
+      },
+      {
+        "rank": 8,
+        "name": "elcukro/bank-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/elcukro/bank-mcp",
+        "stars": 47,
+        "metric": null,
+        "what": "Read-only bank account access for AI assistants",
+        "archived": false,
+        "pushed_at": "2026-05-23"
+      },
+      {
+        "rank": 9,
+        "name": "CDataSoftware/quickbooks-mcp-server-by-cdata",
+        "type": "mcp-server",
+        "url": "https://github.com/CDataSoftware/quickbooks-mcp-server-by-cdata",
+        "stars": 18,
+        "metric": null,
+        "what": "Read-only QuickBooks data access from Claude",
+        "archived": false,
+        "pushed_at": "2025-10-18"
+      },
+      {
+        "rank": 10,
+        "name": "intuit/quickbooks-claude-plugin",
+        "type": "claude-plugin",
+        "url": "https://github.com/intuit/quickbooks-claude-plugin",
+        "stars": 0,
+        "metric": null,
+        "what": "Official QuickBooks plugin: P&L briefings and actions in Claude",
+        "archived": false,
+        "pushed_at": "2026-09-16"
+      }
+    ],
+    "notes": "List A: paperless-ngx and paperless-ai count as the 2 generic document tools. crater last pushed 2024-08. Cut: maybe-finance/maybe (archived), firefly-iii and actualbudget (personal finance, not firm/SMB bookkeeping). intuit/quickbooks-claude-plugin has 0 GitHub stars but is listed in anthropics/claude-plugins-official. oracle/netsuite-suitecloud-sdk stars are for the whole SDK repo. knowledge-work-plugins also has a small-business plugin (invoice-chase, pay-the-bills, tax-prep). No Egypt-specific (ETA e-invoice) MCP found. No GPTs with verifiable metrics found."
+  },
+  {
+    "slug": "medical-clinics",
+    "business_type": "Medical clinics & healthcare practices",
+    "title": "10 open-source repos to build AI for medical clinics",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "Project-MONAI/MONAI",
+        "url": "https://github.com/Project-MONAI/MONAI",
+        "stars": 8710,
+        "what": "Deep-learning toolkit for reading X-rays, CT and MRI scans",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "openemr/openemr",
+        "url": "https://github.com/openemr/openemr",
+        "stars": 5475,
+        "what": "Full electronic health record and practice management for clinics",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "OHIF/Viewers",
+        "url": "https://github.com/OHIF/Viewers",
+        "stars": 4349,
+        "what": "Web viewer for X-rays, CT and MRI scans (DICOM)",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 4,
+        "name": "medplum/medplum",
+        "url": "https://github.com/medplum/medplum",
+        "stars": 2708,
+        "what": "FHIR-native backend to build compliant patient and clinic apps",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "hapifhir/hapi-fhir",
+        "url": "https://github.com/hapifhir/hapi-fhir",
+        "stars": 2408,
+        "what": "Java FHIR server and client to connect clinic health records",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "openmrs/openmrs-core",
+        "url": "https://github.com/openmrs/openmrs-core",
+        "stars": 1927,
+        "what": "Open medical record system used by clinics worldwide",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "Google-Health/medgemma",
+        "url": "https://github.com/Google-Health/medgemma",
+        "stars": 1612,
+        "what": "Open medical AI models for notes and image understanding",
+        "pushed_at": "2026-06-19",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "medspacy/medspacy",
+        "url": "https://github.com/medspacy/medspacy",
+        "stars": 680,
+        "what": "Extracts diagnoses and facts from free-text clinical notes",
+        "pushed_at": "2026-06-04",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "ohcnetwork/care_fe",
+        "url": "https://github.com/ohcnetwork/care_fe",
+        "stars": 648,
+        "what": "Patient, bed and consultation management web app for care facilities",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "sammargolis/OpenScribe",
+        "url": "https://github.com/sammargolis/OpenScribe",
+        "stars": 212,
+        "what": "Self-hosted AI scribe turning patient visits into clinical notes",
+        "pushed_at": "2026-08-17",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for medical clinics",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "Claude for Healthcare plugin",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/healthcare",
+        "stars": 413,
+        "metric": null,
+        "what": "ICD-10/CPT coding, FHIR, prior-auth and clinical-note skills for Claude",
+        "archived": false,
+        "pushed_at": "2026-08-27"
+      },
+      {
+        "rank": 2,
+        "name": "genomoncology/biomcp",
+        "type": "mcp-server",
+        "url": "https://github.com/genomoncology/biomcp",
+        "stars": 643,
+        "metric": null,
+        "what": "Lets AI search PubMed, clinical trials and drug-variant data",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 3,
+        "name": "wso2/fhir-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/wso2/fhir-mcp-server",
+        "stars": 137,
+        "metric": null,
+        "what": "Exposes any FHIR EHR server to Claude or other AI",
+        "archived": false,
+        "pushed_at": "2026-09-04"
+      },
+      {
+        "rank": 4,
+        "name": "Cicatriiz/healthcare-mcp-public",
+        "type": "mcp-server",
+        "url": "https://github.com/Cicatriiz/healthcare-mcp-public",
+        "stars": 128,
+        "metric": null,
+        "what": "Gives AI FDA drug, PubMed and medical reference lookups",
+        "archived": false,
+        "pushed_at": "2025-08-16"
+      },
+      {
+        "rank": 5,
+        "name": "JamesANZ/medical-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/JamesANZ/medical-mcp",
+        "stars": 114,
+        "metric": null,
+        "what": "Queries drug databases and medical literature from chat",
+        "archived": false,
+        "pushed_at": "2026-09-21"
+      },
+      {
+        "rank": 6,
+        "name": "ChristianHinge/dicom-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/ChristianHinge/dicom-mcp",
+        "stars": 101,
+        "metric": null,
+        "what": "Lets AI query and read imaging studies from PACS",
+        "archived": false,
+        "pushed_at": "2026-09-12"
+      },
+      {
+        "rank": 7,
+        "name": "the-momentum/fhir-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/the-momentum/fhir-mcp-server",
+        "stars": 100,
+        "metric": null,
+        "what": "Ask patient history questions in plain English over FHIR",
+        "archived": false,
+        "pushed_at": "2025-10-23"
+      },
+      {
+        "rank": 8,
+        "name": "OHNLP/omop_mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/OHNLP/omop_mcp",
+        "stars": 40,
+        "metric": null,
+        "what": "Maps clinical terms to standard OMOP codes with AI",
+        "archived": false,
+        "pushed_at": "2026-05-11"
+      },
+      {
+        "rank": 9,
+        "name": "SidneyBissoli/medical-terminologies-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/SidneyBissoli/medical-terminologies-mcp",
+        "stars": 14,
+        "metric": null,
+        "what": "ICD-11, SNOMED, LOINC and RxNorm code lookups for AI",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 10,
+        "name": "Scriba - Medical Scribe GPT",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-3EAfGySkI-scriba-medical-scribe-gpt",
+        "stars": null,
+        "metric": null,
+        "what": "Custom GPT that drafts clinical notes from visit transcripts"
+      }
+    ],
+    "notes": "GPT metrics not shown publicly (null). Consumer ChatGPT GPTs are not HIPAA-covered; PHI must not go into them. HospitalRun (6.9k) and fasten-onprem (2.8k) excluded as archived. Medplum/OpenEMR have no official MCP repo (404)."
+  },
+  {
+    "slug": "dental-clinics",
+    "business_type": "Dental clinics",
+    "title": "10 open-source repos to build AI for dental clinics",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "limhoyeon/ToothGroupNetwork",
+        "url": "https://github.com/limhoyeon/ToothGroupNetwork",
+        "stars": 330,
+        "what": "AI segmentation of individual teeth from 3D intraoral scans",
+        "pushed_at": "2024-07-09",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "clemkoa/tooth-detection",
+        "url": "https://github.com/clemkoa/tooth-detection",
+        "stars": 230,
+        "what": "Detects fillings and treatments on dental X-rays",
+        "pushed_at": "2021-10-21",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "gaudot/SlicerDentalSegmentator",
+        "url": "https://github.com/gaudot/SlicerDentalSegmentator",
+        "stars": 189,
+        "what": "Automatic tooth and jaw segmentation for CBCT scans",
+        "pushed_at": "2026-05-22",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "DCBIA-OrthoLab/SlicerAutomatedDentalTools",
+        "url": "https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools",
+        "stars": 177,
+        "what": "AI landmarking and segmentation tools for CBCT and intraoral scans",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "alexcorvi/apexo",
+        "url": "https://github.com/alexcorvi/apexo",
+        "stars": 130,
+        "what": "Web/desktop app to run a dental practice: patients, appointments",
+        "pushed_at": "2024-03-07",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "ibrahimethemhamamci/DENTEX",
+        "url": "https://github.com/ibrahimethemhamamci/DENTEX",
+        "stars": 120,
+        "what": "Models and dataset to number teeth and diagnose panoramic X-rays",
+        "pushed_at": "2026-06-08",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "davidegironi/dentned",
+        "url": "https://github.com/davidegironi/dentned",
+        "stars": 86,
+        "what": "Open-source dental practice management software",
+        "pushed_at": "2026-04-14",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "dentalpin/dentalpin",
+        "url": "https://github.com/dentalpin/dentalpin",
+        "stars": 83,
+        "what": "Agentic, AI-first open-source dental clinic software",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "biomathcode/react-odontogram",
+        "url": "https://github.com/biomathcode/react-odontogram",
+        "stars": 78,
+        "what": "Interactive React tooth chart component for dental records",
+        "pushed_at": "2026-09-08",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "ZoliQua/React-Advanced-Odontogram",
+        "url": "https://github.com/ZoliQua/React-Advanced-Odontogram",
+        "stars": 74,
+        "what": "Dental and periodontal charting component for clinic apps",
+        "pushed_at": "2026-09-22",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for dental clinics",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "sanjibani/open-dental-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/sanjibani/open-dental-mcp",
+        "stars": 5,
+        "metric": null,
+        "what": "Talk to Open Dental patients, appointments and recalls from Claude",
+        "archived": false,
+        "pushed_at": "2026-06-26"
+      },
+      {
+        "rank": 2,
+        "name": "Tuminha/dental-ai-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/Tuminha/dental-ai-skills",
+        "stars": 7,
+        "metric": null,
+        "what": "Dentist skills for evidence review, research critique and content",
+        "archived": false,
+        "pushed_at": "2026-05-16"
+      },
+      {
+        "rank": 3,
+        "name": "AojdevStudio/open-dental-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/AojdevStudio/open-dental-mcp",
+        "stars": 3,
+        "metric": null,
+        "what": "Searches Open Dental documentation for staff questions",
+        "archived": false,
+        "pushed_at": "2025-04-01"
+      },
+      {
+        "rank": 4,
+        "name": "hahzterry/dental-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/hahzterry/dental-mcp",
+        "stars": 1,
+        "metric": null,
+        "what": "Dental office ops: patients, scheduling, insurance and SMS",
+        "archived": false,
+        "pushed_at": "2026-03-04"
+      },
+      {
+        "rank": 5,
+        "name": "keyhan-azarjoo/dentally-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/keyhan-azarjoo/dentally-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "Connects AI assistants to Dentally practice management",
+        "archived": false,
+        "pushed_at": "2026-09-14"
+      },
+      {
+        "rank": 6,
+        "name": "Claude for Healthcare plugin",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/healthcare",
+        "stars": 413,
+        "metric": null,
+        "what": "Clinical-note extraction and procedure coding skills",
+        "archived": false,
+        "pushed_at": "2026-08-27"
+      },
+      {
+        "rank": 7,
+        "name": "ChristianHinge/dicom-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/ChristianHinge/dicom-mcp",
+        "stars": 101,
+        "metric": null,
+        "what": "Lets AI pull X-ray and CBCT studies from PACS",
+        "archived": false,
+        "pushed_at": "2026-09-12"
+      },
+      {
+        "rank": 8,
+        "name": "Small-business plugin (Anthropic)",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/small-business",
+        "stars": 25658,
+        "metric": null,
+        "what": "Review replies, speed-to-lead and reactivation of lapsed patients",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 9,
+        "name": "Interactive Dental Note Creator",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-7ehi5z0kH-interactive-dental-note-creator",
+        "stars": null,
+        "metric": null,
+        "what": "Custom GPT that helps dentists write clinical notes faster"
+      },
+      {
+        "rank": 10,
+        "name": "Dental GPT",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-BpDfIj5qx-dental-gpt",
+        "stars": null,
+        "metric": null,
+        "what": "General dentistry Q&A assistant for dental teams"
+      }
+    ],
+    "notes": "Dental add-on ecosystem is thin: dental MCP servers all have <10 stars, and 2 entries are cross-vertical (healthcare plugin, dicom-mcp) plus Anthropic small-business plugin (stars = whole knowledge-work-plugins repo). GPT pages show no public usage metric. Open Dental itself is not an open GitHub repo. Several list-A repos are research code, some stale (clemkoa 2021, ToothGroupNetwork 2024)."
+  },
+  {
+    "slug": "marketing-agencies",
+    "business_type": "Marketing & ad agencies",
+    "title": "10 open-source repos to build AI for marketing agencies",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "umami-software/umami",
+        "url": "https://github.com/umami-software/umami",
+        "stars": 39025,
+        "what": "Privacy-first web analytics with campaign and conversion tracking",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "gitroomhq/postiz-app",
+        "url": "https://github.com/gitroomhq/postiz-app",
+        "stars": 36346,
+        "what": "Agentic social media scheduler for many client accounts",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "plausible/analytics",
+        "url": "https://github.com/plausible/analytics",
+        "stars": 29222,
+        "what": "Lightweight cookie-free Google Analytics alternative for client sites",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "knadh/listmonk",
+        "url": "https://github.com/knadh/listmonk",
+        "stars": 23585,
+        "what": "Self-hosted newsletter and mailing-list manager",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "matomo-org/matomo",
+        "url": "https://github.com/matomo-org/matomo",
+        "stars": 21899,
+        "what": "Privacy-first Google Analytics alternative agencies self-host for clients",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 6,
+        "name": "mautic/mautic",
+        "url": "https://github.com/mautic/mautic",
+        "stars": 10560,
+        "what": "Open-source marketing automation: campaigns, emails, lead scoring",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "inovector/mixpost",
+        "url": "https://github.com/inovector/mixpost",
+        "stars": 3738,
+        "what": "Self-hosted social scheduling and publishing without subscriptions",
+        "pushed_at": "2026-03-16",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "towfiqi/serpbear",
+        "url": "https://github.com/towfiqi/serpbear",
+        "stars": 2093,
+        "what": "Tracks client keyword rankings on Google",
+        "pushed_at": "2026-05-14",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "google/meridian",
+        "url": "https://github.com/google/meridian",
+        "stars": 1548,
+        "what": "Google marketing mix model to measure true channel ROI",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "pymc-labs/pymc-marketing",
+        "url": "https://github.com/pymc-labs/pymc-marketing",
+        "stars": 1266,
+        "what": "Bayesian MMM and customer lifetime value models",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for marketing agencies",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "coreyhaines31/marketingskills",
+        "type": "claude-skill",
+        "url": "https://github.com/coreyhaines31/marketingskills",
+        "stars": 51566,
+        "metric": null,
+        "what": "CRO, copywriting, SEO and growth skills for Claude",
+        "archived": false,
+        "pushed_at": "2026-09-05"
+      },
+      {
+        "rank": 2,
+        "name": "Marketing plugin (Anthropic)",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/marketing",
+        "stars": 25658,
+        "metric": null,
+        "what": "Campaign plans, SEO audits, briefs and performance reports",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 3,
+        "name": "googleanalytics/google-analytics-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/googleanalytics/google-analytics-mcp",
+        "stars": 3306,
+        "metric": null,
+        "what": "Official Google Analytics data access for AI",
+        "archived": false,
+        "pushed_at": "2026-08-07"
+      },
+      {
+        "rank": 4,
+        "name": "zubair-trabzada/ai-marketing-claude",
+        "type": "claude-plugin",
+        "url": "https://github.com/zubair-trabzada/ai-marketing-claude",
+        "stars": 2684,
+        "metric": null,
+        "what": "15 marketing skills running audits in parallel",
+        "archived": false,
+        "pushed_at": "2026-03-02"
+      },
+      {
+        "rank": 5,
+        "name": "pipeboard-co/meta-ads-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/pipeboard-co/meta-ads-mcp",
+        "stars": 1279,
+        "metric": null,
+        "what": "Analyze and manage Facebook/Instagram ad campaigns from chat",
+        "archived": false,
+        "pushed_at": "2026-09-23"
+      },
+      {
+        "rank": 6,
+        "name": "kostja94/marketing-skills",
+        "type": "claude-skill",
+        "url": "https://github.com/kostja94/marketing-skills",
+        "stars": 993,
+        "metric": null,
+        "what": "160+ skills for SEO, social and influencer marketing",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 7,
+        "name": "googleads/google-ads-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/googleads/google-ads-mcp",
+        "stars": 985,
+        "metric": null,
+        "what": "Official Google Ads MCP to query campaign performance",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 8,
+        "name": "gomarble-ai/facebook-ads-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/gomarble-ai/facebook-ads-mcp-server",
+        "stars": 366,
+        "metric": null,
+        "what": "Pulls Meta ad insights for AI analysis",
+        "archived": false,
+        "pushed_at": "2026-08-05"
+      },
+      {
+        "rank": 9,
+        "name": "saurabhsharma2u/search-console-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/saurabhsharma2u/search-console-mcp",
+        "stars": 295,
+        "metric": null,
+        "what": "Search Console and Bing Webmaster data for SEO work",
+        "archived": false,
+        "pushed_at": "2026-09-02"
+      },
+      {
+        "rank": 10,
+        "name": "open-strategy-partners/osp_marketing_tools",
+        "type": "mcp-server",
+        "url": "https://github.com/open-strategy-partners/osp_marketing_tools",
+        "stars": 272,
+        "metric": null,
+        "what": "Content writing, editing and positioning frameworks as AI tools",
+        "archived": false,
+        "pushed_at": "2025-04-23"
+      }
+    ],
+    "notes": "Anthropic plugin stars = whole knowledge-work-plugins repo, not the marketing plugin alone. List A excludes generic automation (n8n etc.). osp_marketing_tools last pushed 2025-04."
+  },
+  {
+    "slug": "saas-startups",
+    "business_type": "B2B SaaS startups",
+    "title": "10 open-source repos to build a B2B SaaS with AI",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "supabase/supabase",
+        "url": "https://github.com/supabase/supabase",
+        "stars": 110774,
+        "what": "Postgres backend with auth, storage and vectors for SaaS apps",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "twentyhq/twenty",
+        "url": "https://github.com/twentyhq/twenty",
+        "stars": 57525,
+        "what": "Open, AI-ready CRM alternative to Salesforce",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "stars": 39945,
+        "what": "Product analytics, session replay, flags and experiments in one",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "chatwoot/chatwoot",
+        "url": "https://github.com/chatwoot/chatwoot",
+        "stars": 37210,
+        "what": "Omni-channel customer support desk, Intercom/Zendesk alternative",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "langfuse/langfuse",
+        "url": "https://github.com/langfuse/langfuse",
+        "stars": 35070,
+        "what": "Trace and evaluate the LLM features inside your product",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "nextjs/saas-starter",
+        "url": "https://github.com/nextjs/saas-starter",
+        "stars": 16148,
+        "what": "Next.js, Postgres and Stripe SaaS starter",
+        "pushed_at": "2025-12-11",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "wasp-lang/open-saas",
+        "url": "https://github.com/wasp-lang/open-saas",
+        "stars": 16016,
+        "what": "Free full-stack SaaS boilerplate with auth, payments, admin",
+        "pushed_at": "2026-09-22",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "Unleash/unleash",
+        "url": "https://github.com/Unleash/unleash",
+        "stars": 13833,
+        "what": "Feature flags to ship and roll out features safely",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "formbricks/formbricks",
+        "url": "https://github.com/formbricks/formbricks",
+        "stars": 13022,
+        "what": "In-app surveys and user feedback, Qualtrics alternative",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "getlago/lago",
+        "url": "https://github.com/getlago/lago",
+        "stars": 10613,
+        "what": "Usage-based billing and subscription metering API",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for B2B SaaS startups",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "wshobson/agents",
+        "type": "claude-plugin",
+        "url": "https://github.com/wshobson/agents",
+        "stars": 39994,
+        "metric": null,
+        "what": "Plugin marketplace of engineering, product and business agents",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "github/github-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/github/github-mcp-server",
+        "stars": 33216,
+        "metric": null,
+        "what": "Official GitHub MCP: issues, PRs and code from chat",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 3,
+        "name": "Product-management plugin (Anthropic)",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/product-management",
+        "stars": 25658,
+        "metric": null,
+        "what": "Specs, roadmaps and user research synthesis for PMs",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 4,
+        "name": "Customer-support plugin (Anthropic)",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/customer-support",
+        "stars": 25658,
+        "metric": null,
+        "what": "Ticket triage, response drafts and knowledge-base articles",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 5,
+        "name": "Sales plugin (Anthropic)",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/sales",
+        "stars": 25658,
+        "metric": null,
+        "what": "Account research, call prep and outreach drafting",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 6,
+        "name": "supabase/mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/supabase/mcp",
+        "stars": 2923,
+        "metric": null,
+        "what": "Manage your Supabase database and project from AI",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 7,
+        "name": "Stripe agent toolkit + MCP",
+        "type": "mcp-server",
+        "url": "https://github.com/stripe/ai",
+        "stars": 1836,
+        "metric": null,
+        "what": "Billing, subscriptions and payments actions for AI agents",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 8,
+        "name": "getsentry/sentry-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/getsentry/sentry-mcp",
+        "stars": 863,
+        "metric": null,
+        "what": "Pull production errors into AI for debugging",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 9,
+        "name": "tacticlaunch/mcp-linear",
+        "type": "mcp-server",
+        "url": "https://github.com/tacticlaunch/mcp-linear",
+        "stars": 147,
+        "metric": null,
+        "what": "Create and update Linear issues from chat",
+        "archived": false,
+        "pushed_at": "2026-08-29"
+      },
+      {
+        "rank": 10,
+        "name": "PostHog AI plugin",
+        "type": "claude-plugin",
+        "url": "https://github.com/PostHog/ai-plugin",
+        "stars": 87,
+        "metric": null,
+        "what": "Query product analytics and flags from Claude Code/Codex",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      }
+    ],
+    "notes": "SaaS is horizontal by nature, so list A is the SaaS-specific stack (billing, flags, analytics, starters); langfuse and twenty are the generic picks. Anthropic plugin stars = whole knowledge-work-plugins repo. PostHog/mcp is archived (moved), so PostHog/ai-plugin used."
+  },
+  {
+    "slug": "coaches-consultants",
+    "business_type": "Coaches, consultants & solo professional services",
+    "title": "10 open-source repos to build AI for coaches and consultants",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "twentyhq/twenty",
+        "url": "https://github.com/twentyhq/twenty",
+        "stars": 57525,
+        "what": "Open CRM to track clients, leads and deals",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "calcom/cal.diy",
+        "url": "https://github.com/calcom/cal.diy",
+        "stars": 48655,
+        "what": "Scheduling and booking pages for client sessions",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "Zackriya-Solutions/meetily",
+        "url": "https://github.com/Zackriya-Solutions/meetily",
+        "stars": 31119,
+        "what": "Private AI meeting notes with local transcription and summaries",
+        "pushed_at": "2026-09-15",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "documenso/documenso",
+        "url": "https://github.com/documenso/documenso",
+        "stars": 15199,
+        "what": "E-sign client contracts, DocuSign alternative",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "midday-ai/midday",
+        "url": "https://github.com/midday-ai/midday",
+        "stars": 15038,
+        "what": "Invoicing, time tracking and finances for solo operators",
+        "pushed_at": "2026-06-13",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "invoiceninja/invoiceninja",
+        "url": "https://github.com/invoiceninja/invoiceninja",
+        "stars": 10114,
+        "what": "Invoices, quotes, projects and time tracking",
+        "pushed_at": "2026-09-22",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "fastrepl/anarlog",
+        "url": "https://github.com/fastrepl/anarlog",
+        "stars": 9398,
+        "what": "Open-source Granola alternative for AI meeting notes",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "Snouzy/workout-cool",
+        "url": "https://github.com/Snouzy/workout-cool",
+        "stars": 8502,
+        "what": "Open-source fitness coaching platform with client plans",
+        "pushed_at": "2026-09-20",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "kimai/kimai",
+        "url": "https://github.com/kimai/kimai",
+        "stars": 5044,
+        "what": "Time tracking for billable consulting hours",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "alextselegidis/easyappointments",
+        "url": "https://github.com/alextselegidis/easyappointments",
+        "stars": 4395,
+        "what": "Self-hosted appointment booking for client sessions",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for coaches and consultants",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "Small-business plugin (Anthropic)",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/small-business",
+        "stars": 25658,
+        "metric": null,
+        "what": "Proposals, invoice chasing, lead finding and weekly business pulse",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "makenotion/notion-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/makenotion/notion-mcp-server",
+        "stars": 4645,
+        "metric": null,
+        "what": "Official Notion MCP for client notes and workspaces",
+        "archived": false,
+        "pushed_at": "2026-09-20"
+      },
+      {
+        "rank": 3,
+        "name": "Stripe agent toolkit + MCP",
+        "type": "mcp-server",
+        "url": "https://github.com/stripe/ai",
+        "stars": 1836,
+        "metric": null,
+        "what": "Create invoices, payment links and subscriptions from chat",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 4,
+        "name": "DogInfantry/claude-skill-management-consultant-B1",
+        "type": "claude-plugin",
+        "url": "https://github.com/DogInfantry/claude-skill-management-consultant-B1",
+        "stars": 125,
+        "metric": null,
+        "what": "MBB-style consulting frameworks, market sizing and problem solving",
+        "archived": false,
+        "pushed_at": "2026-09-21"
+      },
+      {
+        "rank": 5,
+        "name": "gcamilo/management-consulting",
+        "type": "claude-skill",
+        "url": "https://github.com/gcamilo/management-consulting",
+        "stars": 90,
+        "metric": null,
+        "what": "40+ consulting frameworks with structured deliverables",
+        "archived": false,
+        "pushed_at": "2026-04-30"
+      },
+      {
+        "rank": 6,
+        "name": "anotb/management-consulting-plugin",
+        "type": "claude-plugin",
+        "url": "https://github.com/anotb/management-consulting-plugin",
+        "stars": 56,
+        "metric": null,
+        "what": "Strategy and operations workflows across a consulting engagement",
+        "archived": false,
+        "pushed_at": "2026-09-06"
+      },
+      {
+        "rank": 7,
+        "name": "calcom/cal-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/calcom/cal-mcp",
+        "stars": 30,
+        "metric": null,
+        "what": "Official Cal.com MCP to manage bookings from chat",
+        "archived": false,
+        "pushed_at": "2025-05-22"
+      },
+      {
+        "rank": 8,
+        "name": "abinauv/business-consulting",
+        "type": "claude-plugin",
+        "url": "https://github.com/abinauv/business-consulting",
+        "stars": 28,
+        "metric": null,
+        "what": "16 skills: market research, pricing, financial models, strategy",
+        "archived": false,
+        "pushed_at": "2026-02-28"
+      },
+      {
+        "rank": 9,
+        "name": "mattjoyce/mcp-persona-sessions",
+        "type": "mcp-server",
+        "url": "https://github.com/mattjoyce/mcp-persona-sessions",
+        "stars": 12,
+        "metric": null,
+        "what": "Runs guided reflection, role-play and practice sessions",
+        "archived": false,
+        "pushed_at": "2026-03-02"
+      },
+      {
+        "rank": 10,
+        "name": "Executive Coach GPT",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-YHw2X2Qwy-executive-coach-gpt",
+        "stars": null,
+        "metric": null,
+        "what": "Custom GPT for leadership and business coaching conversations"
+      }
+    ],
+    "notes": "No strong coaching-specific open-source platform exists except fitness (workout-cool); list A is the solo-operator stack. Consulting skills are small (<130 stars). calcom/cal.com now resolves to calcom/cal.diy; cal-mcp last pushed 2025-05. Anthropic plugin stars = whole knowledge-work-plugins repo. GPT has no public metric."
+  },
+  {
+    "slug": "recruiting-hr",
+    "business_type": "Recruiting agencies & HR teams",
+    "title": "10 open-source repos to build AI for recruiting and HR",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "srbhr/Resume-Matcher",
+        "url": "https://github.com/srbhr/Resume-Matcher",
+        "stars": 28525,
+        "what": "Scores resumes against job descriptions with local AI models",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "xitanggg/open-resume",
+        "url": "https://github.com/xitanggg/open-resume",
+        "stars": 8909,
+        "what": "Parses resume PDFs into structured candidate data",
+        "pushed_at": "2024-10-29",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "frappe/hrms",
+        "url": "https://github.com/frappe/hrms",
+        "stars": 8827,
+        "what": "Full HR and payroll system: hiring, leave, appraisals",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "ever-co/ever-gauzy",
+        "url": "https://github.com/ever-co/ever-gauzy",
+        "stars": 8050,
+        "what": "Business platform with built-in ATS, HRM and time tracking",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "speedyapply/JobSpy",
+        "url": "https://github.com/speedyapply/JobSpy",
+        "stars": 4355,
+        "what": "Scrapes LinkedIn, Indeed, Glassdoor jobs for market and client leads",
+        "pushed_at": "2026-02-18",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "horilla/horilla-hr",
+        "url": "https://github.com/horilla/horilla-hr",
+        "stars": 1436,
+        "what": "Open-source HR suite with recruitment pipeline and onboarding",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "FoloUp/FoloUp",
+        "url": "https://github.com/FoloUp/FoloUp",
+        "stars": 1265,
+        "what": "AI voice interviewer that screens and scores candidates",
+        "pushed_at": "2026-05-25",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "orangehrm/orangehrm",
+        "url": "https://github.com/orangehrm/orangehrm",
+        "stars": 1144,
+        "what": "Classic HR system with recruitment and employee records",
+        "pushed_at": "2026-06-28",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "OmkarPathak/pyresparser",
+        "url": "https://github.com/OmkarPathak/pyresparser",
+        "stars": 959,
+        "what": "Python library extracting skills, education, contacts from resumes",
+        "pushed_at": "2023-09-13",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "opencats/OpenCATS",
+        "url": "https://github.com/opencats/OpenCATS",
+        "stars": 753,
+        "what": "Applicant tracking system and recruitment CRM for staffing agencies",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for recruiting and HR",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "Anthropic human-resources plugin (knowledge-work-plugins)",
+        "type": "claude-plugin",
+        "url": "https://github.com/anthropics/knowledge-work-plugins/tree/main/human-resources",
+        "stars": 25658,
+        "metric": null,
+        "what": "Claude skills for recruiting pipeline, offers, interviews, reviews, onboarding",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "stickerdaniel/linkedin-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/stickerdaniel/linkedin-mcp-server",
+        "stars": 3631,
+        "metric": null,
+        "what": "Lets Claude search LinkedIn profiles and jobs for sourcing",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 3,
+        "name": "amikai/openings-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/amikai/openings-mcp",
+        "stars": 92,
+        "metric": null,
+        "what": "Searches 41k company career sites across major ATS platforms",
+        "archived": false,
+        "pushed_at": "2026-09-22"
+      },
+      {
+        "rank": 4,
+        "name": "merge-api/merge-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/merge-api/merge-mcp",
+        "stars": 20,
+        "metric": null,
+        "what": "One MCP into many ATS and HRIS tools via Merge",
+        "archived": false,
+        "pushed_at": "2025-04-30"
+      },
+      {
+        "rank": 5,
+        "name": "acalder-techpm/bamboohr-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/acalder-techpm/bamboohr-mcp",
+        "stars": 14,
+        "metric": null,
+        "what": "74 BambooHR tools including ATS, time off, employee data",
+        "archived": false,
+        "pushed_at": "2026-03-09"
+      },
+      {
+        "rank": 6,
+        "name": "D4umak/linkedin-outreach-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/D4umak/linkedin-outreach-mcp",
+        "stars": 9,
+        "metric": null,
+        "what": "Finds LinkedIn prospects and drafts personalised outreach messages",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 7,
+        "name": "benmonopoli/open-greenhouse-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/benmonopoli/open-greenhouse-mcp",
+        "stars": 5,
+        "metric": null,
+        "what": "Recruiter-safe Greenhouse access: candidates, jobs, interview stages",
+        "archived": false,
+        "pushed_at": "2026-07-20"
+      },
+      {
+        "rank": 8,
+        "name": "gzchenhao/openhire",
+        "type": "mcp-server",
+        "url": "https://github.com/gzchenhao/openhire",
+        "stars": 7,
+        "metric": null,
+        "what": "Real posting dates from Greenhouse, Lever, Ashby job boards",
+        "archived": false,
+        "pushed_at": "2026-09-24"
+      },
+      {
+        "rank": 9,
+        "name": "VovikP/ats-jobs-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/VovikP/ats-jobs-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "Hiring change feed per company, useful for agency business development",
+        "archived": false,
+        "pushed_at": "2026-09-05"
+      },
+      {
+        "rank": 10,
+        "name": "Boolean Generator for Recruiters",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-ZvQiuQdZ1-boolean-generator-for-recruiters",
+        "stars": null,
+        "metric": null,
+        "what": "Turns a job brief into LinkedIn and Google X-ray Boolean strings"
+      }
+    ],
+    "notes": "Recruiting MCP ecosystem is young: most ATS/HRIS MCP servers are community-built with under 20 stars (Greenhouse, BambooHR). Greenhouse launched an official MCP in 2026 and Workday's is early access (not GitHub-hosted, not listed). GPT store page showed no public usage metric. JobSpy and openings-mcp/openhire are job-board data tools, included for sourcing and agency lead-gen. ever-gauzy is the one semi-generic pick in list A."
+  },
+  {
+    "slug": "education-courses",
+    "business_type": "Online course creators, tutors & schools",
+    "title": "10 open-source repos to build AI for courses and tutoring",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "stars": 40328,
+        "what": "Personalized AI tutor that answers, explains and quizzes from your material",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "lfnovo/open-notebook",
+        "url": "https://github.com/lfnovo/open-notebook",
+        "stars": 39519,
+        "what": "Self-hosted NotebookLM: turns course docs into Q&A and podcasts",
+        "pushed_at": "2026-09-20",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "THU-MAIC/OpenMAIC",
+        "url": "https://github.com/THU-MAIC/OpenMAIC",
+        "stars": 39109,
+        "what": "Multi-agent AI classroom that generates and teaches interactive lessons",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "ankitects/anki",
+        "url": "https://github.com/ankitects/anki",
+        "stars": 31568,
+        "what": "Spaced-repetition flashcard engine to plug AI-generated decks into",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "openedx/openedx-platform",
+        "url": "https://github.com/openedx/openedx-platform",
+        "stars": 8194,
+        "what": "Full LMS and course studio behind edX-scale online schools",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "moodle/moodle",
+        "url": "https://github.com/moodle/moodle",
+        "stars": 7432,
+        "what": "Most widely used open-source LMS for schools and academies",
+        "pushed_at": "2026-09-16",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "instructure/canvas-lms",
+        "url": "https://github.com/instructure/canvas-lms",
+        "stars": 6843,
+        "what": "Canvas LMS: courses, grading, assignments for schools",
+        "pushed_at": "2026-04-30",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "oppia/oppia",
+        "url": "https://github.com/oppia/oppia",
+        "stars": 6820,
+        "what": "Interactive lesson platform with feedback-driven explorations",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "frappe/lms",
+        "url": "https://github.com/frappe/lms",
+        "stars": 3261,
+        "what": "Simple LMS to sell and run cohort-based online courses",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "learningequality/kolibri",
+        "url": "https://github.com/learningequality/kolibri",
+        "stars": 1122,
+        "what": "Offline-first learning platform for schools with poor internet",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for course creators and schools",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "Mr. Ranedeer AI Tutor",
+        "type": "gpt",
+        "url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
+        "stars": 29580,
+        "metric": null,
+        "what": "Tutor prompt and GPT that builds curricula, lessons, practice tests",
+        "archived": false,
+        "pushed_at": "2025-09-30"
+      },
+      {
+        "rank": 2,
+        "name": "kimtaeyoon83/mcp-server-youtube-transcript",
+        "type": "mcp-server",
+        "url": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
+        "stars": 598,
+        "metric": null,
+        "what": "Pulls lecture video transcripts so Claude can build notes, quizzes",
+        "archived": false,
+        "pushed_at": "2026-07-21"
+      },
+      {
+        "rank": 3,
+        "name": "ankimcp/anki-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/ankimcp/anki-mcp-server",
+        "stars": 494,
+        "metric": null,
+        "what": "Lets Claude create and review Anki flashcard decks",
+        "archived": false,
+        "pushed_at": "2026-09-18"
+      },
+      {
+        "rank": 4,
+        "name": "vishalsachdev/canvas-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/vishalsachdev/canvas-mcp",
+        "stars": 261,
+        "metric": null,
+        "what": "Up to 102 Canvas LMS tools for grading, courses, students",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 5,
+        "name": "SenmuuuuW/universal-diagnostic-tutor-skill",
+        "type": "claude-skill",
+        "url": "https://github.com/SenmuuuuW/universal-diagnostic-tutor-skill",
+        "stars": 230,
+        "metric": null,
+        "what": "Portable skill that diagnoses where a learner is stuck first",
+        "archived": false,
+        "pushed_at": "2026-09-24"
+      },
+      {
+        "rank": 6,
+        "name": "peancor/moodle-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/peancor/moodle-mcp-server",
+        "stars": 43,
+        "metric": null,
+        "what": "Manages Moodle courses, students, assignments and quizzes from Claude",
+        "archived": false,
+        "pushed_at": "2026-02-22"
+      },
+      {
+        "rank": 7,
+        "name": "NiccoloSalvini/mcp-moodle-staff",
+        "type": "mcp-server",
+        "url": "https://github.com/NiccoloSalvini/mcp-moodle-staff",
+        "stars": 0,
+        "metric": null,
+        "what": "Teacher side of Moodle: submissions, missing work, grading feedback",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 8,
+        "name": "pengusto/google-classroom-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/pengusto/google-classroom-mcp",
+        "stars": 1,
+        "metric": null,
+        "what": "Drafts Google Classroom assignments, announcements and materials",
+        "archived": false,
+        "pushed_at": "2026-09-21"
+      },
+      {
+        "rank": 9,
+        "name": "clouatre-labs/math-mcp-learning-server",
+        "type": "mcp-server",
+        "url": "https://github.com/clouatre-labs/math-mcp-learning-server",
+        "stars": 5,
+        "metric": null,
+        "what": "Math, statistics and plotting tools for teaching quantitative subjects",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 10,
+        "name": "GPT Course Creator",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-ZjTbBRqVM-gpt-course-creator",
+        "stars": null,
+        "metric": null,
+        "what": "Outlines and drafts online course modules from a topic"
+      }
+    ],
+    "notes": "Mr. Ranedeer stars are for its GitHub prompt repo; the matching GPT is chatgpt.com/g/g-9PKhaweyb-mr-ranedeer. Khan Academy's 'Tutor Me' GPT exists but its URL could not be verified, so it is left out. LMS MCP servers (Moodle, Google Classroom) are community-built with low stars. GPT pages exposed no usage metrics. mcp-moodle-teacher was renamed mcp-moodle-staff on GitHub."
+  },
+  {
+    "slug": "content-creators",
+    "business_type": "Content creators, YouTubers & media studios",
+    "title": "10 open-source repos to build AI for creators and media studios",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "Comfy-Org/ComfyUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "stars": 135048,
+        "what": "Node-based image and video generation workflows for creators",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "harry0703/MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "stars": 126021,
+        "what": "Generates full short videos from a topic: script, voice, footage",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "remotion-dev/remotion",
+        "url": "https://github.com/remotion-dev/remotion",
+        "stars": 60527,
+        "what": "Build videos in React code, ideal for templated AI content",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "stars": 53204,
+        "what": "Agents write HTML that renders to finished video",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "gitroomhq/postiz-app",
+        "url": "https://github.com/gitroomhq/postiz-app",
+        "stars": 36346,
+        "what": "Agentic scheduler that posts to every social platform",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "m-bain/whisperX",
+        "url": "https://github.com/m-bain/whisperX",
+        "stars": 24254,
+        "what": "Fast transcription with word timestamps for captions and clips",
+        "pushed_at": "2026-08-30",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "jianchang512/pyvideotrans",
+        "url": "https://github.com/jianchang512/pyvideotrans",
+        "stars": 19148,
+        "what": "Translates videos with dubbing and subtitles into other languages",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "krillinai/OpenCreator",
+        "url": "https://github.com/krillinai/OpenCreator",
+        "stars": 12383,
+        "what": "AI workspace for creators: translate, dub, repurpose videos",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "linyqh/NarratoAI",
+        "url": "https://github.com/linyqh/NarratoAI",
+        "stars": 11209,
+        "what": "Auto-writes commentary and edits narrated recap videos",
+        "pushed_at": "2026-09-17",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "mutonby/openshorts",
+        "url": "https://github.com/mutonby/openshorts",
+        "stars": 5683,
+        "what": "Turns long videos into vertical viral shorts with AI",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for content creators",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "blader/humanizer",
+        "type": "claude-skill",
+        "url": "https://github.com/blader/humanizer",
+        "stars": 52100,
+        "metric": null,
+        "what": "Strips AI tells from scripts, captions and posts",
+        "archived": false,
+        "pushed_at": "2026-09-06"
+      },
+      {
+        "rank": 2,
+        "name": "remotion-dev/skills",
+        "type": "claude-skill",
+        "url": "https://github.com/remotion-dev/skills",
+        "stars": 4716,
+        "metric": null,
+        "what": "Official Remotion skills so Claude writes video code correctly",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 3,
+        "name": "samuelgursky/davinci-resolve-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+        "stars": 3160,
+        "metric": null,
+        "what": "Lets Claude drive DaVinci Resolve timelines, edits and renders",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 4,
+        "name": "eat-pray-ai/yutu",
+        "type": "mcp-server",
+        "url": "https://github.com/eat-pray-ai/yutu",
+        "stars": 693,
+        "metric": null,
+        "what": "YouTube channel toolkit: upload, metadata, playlists, comments via MCP",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 5,
+        "name": "kimtaeyoon83/mcp-server-youtube-transcript",
+        "type": "mcp-server",
+        "url": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
+        "stars": 598,
+        "metric": null,
+        "what": "Fetches YouTube transcripts for research and repurposing",
+        "archived": false,
+        "pushed_at": "2026-07-21"
+      },
+      {
+        "rank": 6,
+        "name": "ZubeidHendricks/youtube-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/ZubeidHendricks/youtube-mcp-server",
+        "stars": 577,
+        "metric": null,
+        "what": "YouTube Data API access: videos, channels, stats, transcripts",
+        "archived": false,
+        "pushed_at": "2026-08-08"
+      },
+      {
+        "rank": 7,
+        "name": "elevenlabs/skills",
+        "type": "claude-skill",
+        "url": "https://github.com/elevenlabs/skills",
+        "stars": 459,
+        "metric": null,
+        "what": "Official ElevenLabs skills for voiceovers, dubbing and sound",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 8,
+        "name": "burningion/video-editing-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/burningion/video-editing-mcp",
+        "stars": 290,
+        "metric": null,
+        "what": "Search, upload and auto-edit footage through Video Jungle",
+        "archived": false,
+        "pushed_at": "2025-10-09"
+      },
+      {
+        "rank": 9,
+        "name": "misbahsy/video-audio-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/misbahsy/video-audio-mcp",
+        "stars": 87,
+        "metric": null,
+        "what": "FFmpeg-powered trimming, converting and audio edits from Claude",
+        "archived": false,
+        "pushed_at": "2025-05-24"
+      },
+      {
+        "rank": 10,
+        "name": "YouTube Script Master",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-CY3CXO6ij-youtube-script-master",
+        "stars": null,
+        "metric": null,
+        "what": "Writes structured YouTube video scripts with hooks"
+      }
+    ],
+    "notes": "Official elevenlabs/elevenlabs-mcp (1537 stars) is archived, so elevenlabs/skills is listed instead. vidIQ also has a GPT but its URL was not verified. GPT pages exposed no usage metrics. Postiz ships its own MCP inside postiz-app (listed in repos)."
+  },
+  {
+    "slug": "logistics-delivery",
+    "business_type": "Logistics, courier & delivery / 3PL",
+    "title": "10 open-source repos to build AI for logistics and delivery",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "google/or-tools",
+        "url": "https://github.com/google/or-tools",
+        "stars": 14106,
+        "what": "Solves vehicle routing and dispatch optimisation for delivery fleets",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "Project-OSRM/osrm-backend",
+        "url": "https://github.com/Project-OSRM/osrm-backend",
+        "stars": 8110,
+        "what": "Fast road routing and travel-time matrices for delivery planning",
+        "pushed_at": "2026-09-13",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "traccar/traccar",
+        "url": "https://github.com/traccar/traccar",
+        "stars": 7804,
+        "what": "Self-hosted GPS tracking for vans, bikes and drivers",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "graphhopper/graphhopper",
+        "url": "https://github.com/graphhopper/graphhopper",
+        "stars": 6705,
+        "what": "Routing engine with route optimisation for OpenStreetMap maps",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "valhalla/valhalla",
+        "url": "https://github.com/valhalla/valhalla",
+        "stars": 6260,
+        "what": "Routing engine with truck profiles, isochrones and map matching",
+        "pushed_at": "2026-09-23",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "fleetbase/fleetbase",
+        "url": "https://github.com/fleetbase/fleetbase",
+        "stars": 3910,
+        "what": "Logistics OS: orders, dispatch, driver app, fleet management",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "VROOM-Project/vroom",
+        "url": "https://github.com/VROOM-Project/vroom",
+        "stars": 1869,
+        "what": "Plans multi-stop delivery routes with time windows in milliseconds",
+        "pushed_at": "2026-09-08",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "openboxes/openboxes",
+        "url": "https://github.com/openboxes/openboxes",
+        "stars": 902,
+        "what": "Warehouse and inventory management for stock and shipments",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "karrioapi/karrio",
+        "url": "https://github.com/karrioapi/karrio",
+        "stars": 794,
+        "what": "Self-hosted multi-carrier shipping API: rates, labels, tracking",
+        "pushed_at": "2026-06-23",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "PyVRP/PyVRP",
+        "url": "https://github.com/PyVRP/PyVRP",
+        "stars": 701,
+        "what": "State-of-the-art Python vehicle routing solver for delivery routes",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for logistics and delivery",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "Karrio built-in MCP server",
+        "type": "mcp-server",
+        "url": "https://github.com/karrioapi/karrio",
+        "stars": 794,
+        "metric": null,
+        "what": "Claude quotes rates, buys labels and tracks parcels via Karrio",
+        "archived": false,
+        "pushed_at": "2026-06-23"
+      },
+      {
+        "rank": 2,
+        "name": "cablate/mcp-google-map",
+        "type": "mcp-server",
+        "url": "https://github.com/cablate/mcp-google-map",
+        "stars": 464,
+        "metric": null,
+        "what": "Google Maps geocoding, directions and distance matrix for Claude",
+        "archived": false,
+        "pushed_at": "2026-09-16"
+      },
+      {
+        "rank": 3,
+        "name": "jagan-shanmugam/open-streetmap-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/jagan-shanmugam/open-streetmap-mcp",
+        "stars": 225,
+        "metric": null,
+        "what": "OpenStreetMap lookups, routes and nearby places without Google",
+        "archived": false,
+        "pushed_at": "2025-07-12"
+      },
+      {
+        "rank": 4,
+        "name": "shipstation/mcp-shipstation-api",
+        "type": "mcp-server",
+        "url": "https://github.com/shipstation/mcp-shipstation-api",
+        "stars": 10,
+        "metric": null,
+        "what": "Official ShipStation MCP: shipments, labels, rates, warehouses",
+        "archived": false,
+        "pushed_at": "2025-08-13"
+      },
+      {
+        "rank": 5,
+        "name": "warpfreight/warp-agent-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/warpfreight/warp-agent-mcp",
+        "stars": 5,
+        "metric": null,
+        "what": "Quote, book and track LTL and FTL freight",
+        "archived": false,
+        "pushed_at": "2026-09-21"
+      },
+      {
+        "rank": 6,
+        "name": "catrinmdonnelly/royalmail-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/catrinmdonnelly/royalmail-mcp",
+        "stars": 3,
+        "metric": null,
+        "what": "Book, label and track Royal Mail and Parcelforce shipments",
+        "archived": false,
+        "pushed_at": "2026-04-24"
+      },
+      {
+        "rank": 7,
+        "name": "zavora-ai/skill-logistics-shipping",
+        "type": "claude-skill",
+        "url": "https://github.com/zavora-ai/skill-logistics-shipping",
+        "stars": 2,
+        "metric": null,
+        "what": "Agent skill for multi-carrier shipments, rate comparison, tracking",
+        "archived": false,
+        "pushed_at": "2026-05-31"
+      },
+      {
+        "rank": 8,
+        "name": "pipeworx-io/mcp-easypost",
+        "type": "mcp-server",
+        "url": "https://github.com/pipeworx-io/mcp-easypost",
+        "stars": 0,
+        "metric": null,
+        "what": "EasyPost multi-carrier rates and package tracking from Claude",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 9,
+        "name": "Shippo MCP Server (hosted)",
+        "type": "mcp-server",
+        "url": "https://docs.goshippo.com/docs/Guides_general/MCPServer",
+        "stars": null,
+        "metric": null,
+        "what": "Shippo's official hosted MCP for labels, rates and tracking"
+      },
+      {
+        "rank": 10,
+        "name": "Smart Logistics and Supply Chain Manager",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-FZsMivC5c-smart-logistics-and-supply-chain-manager",
+        "stars": null,
+        "metric": null,
+        "what": "ChatGPT assistant for logistics planning and supply chain questions"
+      }
+    ],
+    "notes": "Logistics MCP servers are thin: apart from Karrio and map servers, carrier MCPs have under 15 stars. No verified MCP for Egyptian/MENA couriers (Bosta, Aramex) found on GitHub. Shippo MCP is hosted, not open source (stars null). GPT page showed no usage metric. or-tools is general optimisation but is the standard VRP engine."
+  },
+  {
+    "slug": "construction-contractors",
+    "business_type": "Construction & contractors (home services too)",
+    "title": "10 open-source repos to build AI for construction and contractors",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "FreeCAD/FreeCAD",
+        "url": "https://github.com/FreeCAD/FreeCAD",
+        "stars": 33767,
+        "what": "Open-source parametric CAD and BIM modelling",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "opf/openproject",
+        "url": "https://github.com/opf/openproject",
+        "stars": 16207,
+        "what": "Project management with Gantt, budgets and site task tracking",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 3,
+        "name": "invoiceninja/invoiceninja",
+        "url": "https://github.com/invoiceninja/invoiceninja",
+        "stars": 10114,
+        "what": "Quotes, invoices, projects and time tracking for contractors",
+        "pushed_at": "2026-09-22",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "IfcOpenShell/IfcOpenShell",
+        "url": "https://github.com/IfcOpenShell/IfcOpenShell",
+        "stars": 2804,
+        "what": "Reads and edits IFC building models for quantity takeoff",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "pyrevitlabs/pyRevit",
+        "url": "https://github.com/pyrevitlabs/pyRevit",
+        "stars": 1894,
+        "what": "Python automation inside Revit for scripted BIM workflows",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "opensourceBIM/BIMserver",
+        "url": "https://github.com/opensourceBIM/BIMserver",
+        "stars": 1755,
+        "what": "Stores, versions and queries BIM models on a server",
+        "pushed_at": "2026-03-13",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "mlightcad/cad-viewer",
+        "url": "https://github.com/mlightcad/cad-viewer",
+        "stars": 1070,
+        "what": "Browser DXF/DWG viewer and editor for drawings",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "ThatOpen/engine_web-ifc",
+        "url": "https://github.com/ThatOpen/engine_web-ifc",
+        "stars": 1052,
+        "what": "Fast IFC read/write in JavaScript for web BIM apps",
+        "pushed_at": "2026-09-23",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "specklesystems/speckle-server",
+        "url": "https://github.com/specklesystems/speckle-server",
+        "stars": 845,
+        "what": "Syncs model data between Revit, Rhino and web apps",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "OCA/field-service",
+        "url": "https://github.com/OCA/field-service",
+        "stars": 197,
+        "what": "Field service scheduling and dispatch for home service crews",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for construction and contractors",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "jingcheng-chen/rhinomcp",
+        "type": "mcp-server",
+        "url": "https://github.com/jingcheng-chen/rhinomcp",
+        "stars": 1107,
+        "metric": null,
+        "what": "Lets Claude model and edit Rhino 3D designs",
+        "archived": false,
+        "pushed_at": "2026-09-14"
+      },
+      {
+        "rank": 2,
+        "name": "mcp-servers-for-revit/mcp-servers-for-revit",
+        "type": "mcp-server",
+        "url": "https://github.com/mcp-servers-for-revit/mcp-servers-for-revit",
+        "stars": 342,
+        "metric": null,
+        "what": "Active Revit MCP: Claude reads and creates BIM elements",
+        "archived": false,
+        "pushed_at": "2026-04-05"
+      },
+      {
+        "rank": 3,
+        "name": "datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
+        "type": "claude-skill",
+        "url": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
+        "stars": 334,
+        "metric": null,
+        "what": "221 construction skills: estimating, scheduling, BIM analysis, documents",
+        "archived": false,
+        "pushed_at": "2026-08-22"
+      },
+      {
+        "rank": 4,
+        "name": "mcp-servers-for-revit/mcp-server-for-revit-python",
+        "type": "mcp-server",
+        "url": "https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python",
+        "stars": 195,
+        "metric": null,
+        "what": "Python Revit MCP for querying and editing models",
+        "archived": false,
+        "pushed_at": "2026-09-19"
+      },
+      {
+        "rank": 5,
+        "name": "JotaDeRodriguez/Bonsai_mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/JotaDeRodriguez/Bonsai_mcp",
+        "stars": 64,
+        "metric": null,
+        "what": "Query and edit IFC models through Blender Bonsai BIM",
+        "archived": false,
+        "pushed_at": "2026-09-06"
+      },
+      {
+        "rank": 6,
+        "name": "autodesk-platform-services/aps-aecdm-mcp-dotnet",
+        "type": "mcp-server",
+        "url": "https://github.com/autodesk-platform-services/aps-aecdm-mcp-dotnet",
+        "stars": 40,
+        "metric": null,
+        "what": "Autodesk sample MCP for AEC Data Model project queries",
+        "archived": false,
+        "pushed_at": "2026-03-19"
+      },
+      {
+        "rank": 7,
+        "name": "TylerIlunga/procore-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/TylerIlunga/procore-mcp-server",
+        "stars": 9,
+        "metric": null,
+        "what": "Full Procore API: projects, RFIs, submittals, budgets",
+        "archived": false,
+        "pushed_at": "2026-08-21"
+      },
+      {
+        "rank": 8,
+        "name": "Onsite-Intelligence/Jobber-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/Onsite-Intelligence/Jobber-mcp",
+        "stars": 3,
+        "metric": null,
+        "what": "Jobber clients, jobs, quotes and scheduling for home services",
+        "archived": false,
+        "pushed_at": "2026-03-29"
+      },
+      {
+        "rank": 9,
+        "name": "Voryn-Software/servicetitan-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/Voryn-Software/servicetitan-mcp",
+        "stars": 1,
+        "metric": null,
+        "what": "ServiceTitan jobs, estimates, dispatch and invoices for trades",
+        "archived": false,
+        "pushed_at": "2026-03-27"
+      },
+      {
+        "rank": 10,
+        "name": "Construction Estimator",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-tn1BalGwH-construction-estimator",
+        "stars": null,
+        "metric": null,
+        "what": "Drafts proposals, pricing strategy and bid qualifications; not takeoff"
+      }
+    ],
+    "notes": "Original revit-mcp repos (463 stars) are archived; the maintained fork mcp-servers-for-revit/mcp-servers-for-revit is listed instead. Autodesk's aps-mcp-server-nodejs is archived; the AEC Data Model sample is listed. Home-service MCPs (Jobber, ServiceTitan, Procore) are community-built with under 10 stars. GPT page showed no usage metric. invoiceninja is the one generic pick (source-available, not OSI open source)."
+  },
+  {
+    "slug": "gyms-fitness",
+    "business_type": "Gyms, fitness studios & personal trainers",
+    "title": "10 open-source repos to build AI for gyms and trainers",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "Snouzy/workout-cool",
+        "url": "https://github.com/Snouzy/workout-cool",
+        "stars": 8502,
+        "what": "Coach-built workout planner with a big exercise library",
+        "archived": false,
+        "pushed_at": "2026-09-20"
+      },
+      {
+        "rank": 2,
+        "name": "wger-project/wger",
+        "url": "https://github.com/wger-project/wger",
+        "stars": 6970,
+        "what": "Self-hosted workouts, nutrition and basic gym member management",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "CodeWithCJ/SparkyFitness",
+        "url": "https://github.com/CodeWithCJ/SparkyFitness",
+        "stars": 6124,
+        "what": "AI-assisted food, workout and body tracking app to self-host",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "yuhonas/free-exercise-db",
+        "url": "https://github.com/yuhonas/free-exercise-db",
+        "stars": 1921,
+        "what": "800+ public-domain exercises with images for plan builders",
+        "pushed_at": "2026-08-30",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "workout-lol/workout-lol",
+        "url": "https://github.com/workout-lol/workout-lol",
+        "stars": 1568,
+        "what": "Generates simple workout plans from equipment and muscles",
+        "pushed_at": "2024-09-27",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "astashov/liftosaur",
+        "url": "https://github.com/astashov/liftosaur",
+        "stars": 721,
+        "what": "Programmable weightlifting tracker for coaching progressions",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "LiamMorrow/LiftLog",
+        "url": "https://github.com/LiamMorrow/LiftLog",
+        "stars": 576,
+        "what": "Cross-platform lift tracking app with AI plan generation",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "johndavedecano/laragym",
+        "url": "https://github.com/johndavedecano/laragym",
+        "stars": 357,
+        "what": "Laravel gym system: members, plans, subscriptions, payments",
+        "pushed_at": "2026-05-14",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "mayerbalintdev/GYM-One",
+        "url": "https://github.com/mayerbalintdev/GYM-One",
+        "stars": 211,
+        "what": "Free gym management: members, tickets, entry control",
+        "pushed_at": "2026-06-15",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting",
+        "url": "https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting",
+        "stars": 167,
+        "what": "Camera AI that recognizes exercises and counts reps",
+        "pushed_at": "2026-02-28",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for gyms and trainers",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "vespo92/MindbodyMCP",
+        "type": "mcp-server",
+        "url": "https://github.com/vespo92/MindbodyMCP",
+        "stars": 9,
+        "metric": null,
+        "what": "Lets Claude manage Mindbody classes, clients, sales and staff",
+        "archived": false,
+        "pushed_at": "2026-03-31"
+      },
+      {
+        "rank": 2,
+        "name": "chrisdoc/hevy-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/chrisdoc/hevy-mcp",
+        "stars": 484,
+        "metric": null,
+        "what": "Create and read Hevy workouts and routines from Claude",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 3,
+        "name": "Taxuspt/garmin_mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/Taxuspt/garmin_mcp",
+        "stars": 1236,
+        "metric": null,
+        "what": "Pulls client Garmin activity, sleep and heart data into Claude",
+        "archived": false,
+        "pushed_at": "2026-09-23"
+      },
+      {
+        "rank": 4,
+        "name": "r-huijts/strava-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/r-huijts/strava-mcp",
+        "stars": 490,
+        "metric": null,
+        "what": "Reads Strava activities and stats for coaching conversations",
+        "archived": false,
+        "pushed_at": "2026-06-13"
+      },
+      {
+        "rank": 5,
+        "name": "JamsusMaximus/trainingpeaks-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/JamsusMaximus/trainingpeaks-mcp",
+        "stars": 172,
+        "metric": null,
+        "what": "Query TrainingPeaks workouts and fitness load for athletes",
+        "archived": false,
+        "pushed_at": "2026-08-02"
+      },
+      {
+        "rank": 6,
+        "name": "mvilanova/intervals-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/mvilanova/intervals-mcp-server",
+        "stars": 361,
+        "metric": null,
+        "what": "Connects Claude/ChatGPT to Intervals.icu training data",
+        "archived": false,
+        "pushed_at": "2026-08-02"
+      },
+      {
+        "rank": 7,
+        "name": "axelfreeman/gymcamanalytics",
+        "type": "mcp-server",
+        "url": "https://github.com/axelfreeman/gymcamanalytics",
+        "stars": 3,
+        "metric": null,
+        "what": "Gym attendance and trainer analytics from existing cameras",
+        "archived": false,
+        "pushed_at": "2026-09-18"
+      },
+      {
+        "rank": 8,
+        "name": "csjoblom/musclesworked-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/csjoblom/musclesworked-mcp",
+        "stars": 4,
+        "metric": null,
+        "what": "Maps 856 exercises to muscles for program design",
+        "archived": false,
+        "pushed_at": "2026-02-17"
+      },
+      {
+        "rank": 9,
+        "name": "Personal Fitness Trainer",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-lEUQX9a8E-personal-fitness-trainer",
+        "stars": null,
+        "metric": null,
+        "what": "ChatGPT GPT that drafts personal training plans"
+      },
+      {
+        "rank": 10,
+        "name": "Workout Planner",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-Nt8U2L3Kh-workout-planner",
+        "stars": null,
+        "metric": null,
+        "what": "ChatGPT GPT that builds workout schedules"
+      }
+    ],
+    "notes": "Gym-management OSS is mostly small student projects; strongest repos are workout/exercise data apps. Only 2 Mindbody MCPs exist (tiny); most fitness MCPs target wearables, not gym operations. GPT pages show no public conversation counts."
+  },
+  {
+    "slug": "hotels-travel",
+    "business_type": "Hotels, rentals & travel agencies",
+    "title": "10 open-source repos to build AI for hotels and travel",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "Qloapps/QloApps",
+        "url": "https://github.com/Qloapps/QloApps",
+        "stars": 14390,
+        "what": "Full hotel PMS, booking engine and website, self-hosted",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "nirbar1985/ai-travel-agent",
+        "url": "https://github.com/nirbar1985/ai-travel-agent",
+        "stars": 802,
+        "what": "LangGraph agent that searches flights and hotels, emails plans",
+        "pushed_at": "2025-08-21",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "OSU-NLP-Group/TravelPlanner",
+        "url": "https://github.com/OSU-NLP-Group/TravelPlanner",
+        "stars": 549,
+        "what": "Benchmark and sandbox for testing trip-planning AI agents",
+        "pushed_at": "2026-05-24",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "chironyf/hotel-management-system",
+        "url": "https://github.com/chironyf/hotel-management-system",
+        "stars": 251,
+        "what": "Room booking, check-out, orders and revenue dashboards",
+        "pushed_at": "2022-06-20",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "vaibhavverma9999/Hotel-Management-System",
+        "url": "https://github.com/vaibhavverma9999/Hotel-Management-System",
+        "stars": 232,
+        "what": "Simple PHP hotel reservations and room admin",
+        "pushed_at": "2021-11-23",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "JayVora-SerpentCS/OdooHotelManagementSystem",
+        "url": "https://github.com/JayVora-SerpentCS/OdooHotelManagementSystem",
+        "stars": 232,
+        "what": "Odoo-based hotel rooms, folios and housekeeping",
+        "pushed_at": "2019-07-25",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "OCA/vertical-hotel",
+        "url": "https://github.com/OCA/vertical-hotel",
+        "stars": 159,
+        "what": "Maintained Odoo hotel modules: reservations, restaurant, housekeeping",
+        "pushed_at": "2026-08-31",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "AdritPal08/TravelPlanner-CrewAi-Agents-Streamlit",
+        "url": "https://github.com/AdritPal08/TravelPlanner-CrewAi-Agents-Streamlit",
+        "stars": 61,
+        "what": "CrewAI agents generating personalized itineraries",
+        "pushed_at": "2024-08-11",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner",
+        "url": "https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner",
+        "stars": 49,
+        "what": "Multi-agent itinerary, weather and packing planner",
+        "pushed_at": "2025-06-20",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "easy-open-meta/TopskyHotelManagementSystem",
+        "url": "https://github.com/easy-open-meta/TopskyHotelManagementSystem",
+        "stars": 47,
+        "what": "Small/medium hotel management system in .NET",
+        "pushed_at": "2026-01-03",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for hotels and travel",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "Apaleo MCP Server (official)",
+        "type": "mcp-server",
+        "url": "https://www.pulsemcp.com/servers/apaleo",
+        "stars": null,
+        "metric": null,
+        "what": "Lets AI agents read and act on Apaleo hotel PMS data"
+      },
+      {
+        "rank": 2,
+        "name": "prosperkartik/hostaway-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/prosperkartik/hostaway-mcp",
+        "stars": 2,
+        "metric": null,
+        "what": "Connects Claude to Hostaway vacation-rental listings and reservations",
+        "archived": false,
+        "pushed_at": "2026-05-07"
+      },
+      {
+        "rank": 3,
+        "name": "openbnb-org/mcp-server-airbnb",
+        "type": "mcp-server",
+        "url": "https://github.com/openbnb-org/mcp-server-airbnb",
+        "stars": 544,
+        "metric": null,
+        "what": "Search Airbnb listings and details from an AI agent",
+        "archived": false,
+        "pushed_at": "2026-08-06"
+      },
+      {
+        "rank": 4,
+        "name": "HasData/booking-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/HasData/booking-mcp",
+        "stars": 11,
+        "metric": null,
+        "what": "Search Booking.com stays and full property details",
+        "archived": false,
+        "pushed_at": "2026-09-24"
+      },
+      {
+        "rank": 5,
+        "name": "pab1it0/tripadvisor-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/pab1it0/tripadvisor-mcp",
+        "stars": 64,
+        "metric": null,
+        "what": "Tripadvisor locations, reviews and photos for competitor checks",
+        "archived": false,
+        "pushed_at": "2025-04-13"
+      },
+      {
+        "rank": 6,
+        "name": "ravinahp/flights-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/ravinahp/flights-mcp",
+        "stars": 229,
+        "metric": null,
+        "what": "Flight search for agents building itineraries",
+        "archived": false,
+        "pushed_at": "2025-06-11"
+      },
+      {
+        "rank": 7,
+        "name": "donghyun-chae/mcp-amadeus",
+        "type": "mcp-server",
+        "url": "https://github.com/donghyun-chae/mcp-amadeus",
+        "stars": 60,
+        "metric": null,
+        "what": "Amadeus flight offers inside Claude for travel agents",
+        "archived": false,
+        "pushed_at": "2025-05-08"
+      },
+      {
+        "rank": 8,
+        "name": "MikkoParkkola/trvl",
+        "type": "mcp-server",
+        "url": "https://github.com/MikkoParkkola/trvl",
+        "stars": 82,
+        "metric": null,
+        "what": "Flights, hotels, trains, cars and price tracking in one MCP",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 9,
+        "name": "HemmaBo-se/hemmabo-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/HemmaBo-se/hemmabo-mcp-server",
+        "stars": 3,
+        "metric": null,
+        "what": "Agent-native direct booking for host-owned vacation rentals",
+        "archived": false,
+        "pushed_at": "2026-09-24"
+      },
+      {
+        "rank": 10,
+        "name": "Hotel Revenue & Performance Analyst",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-X96v8cIw1-hotel-revenue-performance-analyst",
+        "stars": null,
+        "metric": null,
+        "what": "ChatGPT GPT for hotel pricing and competitor benchmarking"
+      }
+    ],
+    "notes": "Apaleo's official MCP has no public GitHub repo (stars null; listed via PulseMCP). Mews/Cloudbeds have no official MCP found. Hotel PMS OSS beyond QloApps is mostly student-grade or stale (JayVora last push 2019). Archived HotinGo excluded. PulseMCP page blocks scripted checks (403); open it in a browser. ChatGPT review: OSU-NLP-Group/TravelPlanner is a research benchmark, kept for builders testing travel agents."
+  },
+  {
+    "slug": "insurance",
+    "business_type": "Insurance brokers & agencies",
+    "title": "10 open-source repos to build AI for insurance",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "openkoda/openkoda",
+        "url": "https://github.com/openkoda/openkoda",
+        "stars": 1038,
+        "what": "App platform with a ready insurance policy management template",
+        "pushed_at": "2025-02-19",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "casact/chainladder-python",
+        "url": "https://github.com/casact/chainladder-python",
+        "stars": 282,
+        "what": "Loss reserving and claims triangle math in Python",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "lifelib-dev/lifelib",
+        "url": "https://github.com/lifelib-dev/lifelib",
+        "stars": 221,
+        "what": "Ready life insurance actuarial models to reuse",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "openl-tablets/openl-tablets",
+        "url": "https://github.com/openl-tablets/openl-tablets",
+        "stars": 207,
+        "what": "Business rules engine used for rating and underwriting rules",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "OasisLMF/OasisLMF",
+        "url": "https://github.com/OasisLMF/OasisLMF",
+        "stars": 162,
+        "what": "Catastrophe loss modelling framework for property risk",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "samarailly51-pixel/claimpilot-harness",
+        "url": "https://github.com/samarailly51-pixel/claimpilot-harness",
+        "stars": 117,
+        "what": "Stress-tests insurance claim AI agents before production",
+        "pushed_at": "2026-08-24",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "MHaringa/insurancerating",
+        "url": "https://github.com/MHaringa/insurancerating",
+        "stars": 94,
+        "what": "R package for insurance pricing and tariff models",
+        "pushed_at": "2026-09-11",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "aws-samples/serverless-eda-insurance-claims-processing",
+        "url": "https://github.com/aws-samples/serverless-eda-insurance-claims-processing",
+        "stars": 64,
+        "what": "Reference event-driven claims processing app on AWS",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "acturtle/cashflower",
+        "url": "https://github.com/acturtle/cashflower",
+        "stars": 62,
+        "what": "Python framework for actuarial cash-flow projections",
+        "pushed_at": "2026-07-24",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "openimis/openimis-be_py",
+        "url": "https://github.com/openimis/openimis-be_py",
+        "stars": 13,
+        "what": "Open health-insurance scheme management: enrollment, claims, payments",
+        "pushed_at": "2026-09-24",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for insurance",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "jeremylongshore/guidewire-mcp-for-claude",
+        "type": "mcp-server",
+        "url": "https://github.com/jeremylongshore/guidewire-mcp-for-claude",
+        "stars": 1,
+        "metric": null,
+        "what": "Claude reads Guidewire policy, claims and billing with write gates",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 2,
+        "name": "chbhargavareddy/ClaimsProcessingAssistant-MCP",
+        "type": "mcp-server",
+        "url": "https://github.com/chbhargavareddy/ClaimsProcessingAssistant-MCP",
+        "stars": 5,
+        "metric": null,
+        "what": "Lets AI work through claim processing workflows on a database",
+        "archived": false,
+        "pushed_at": "2026-08-22"
+      },
+      {
+        "rank": 3,
+        "name": "anotb/second-line-financial-services",
+        "type": "claude-plugin",
+        "url": "https://github.com/anotb/second-line-financial-services",
+        "stars": 1,
+        "metric": null,
+        "what": "Claude plugins for compliance and AI-risk with insurance overlays",
+        "archived": false,
+        "pushed_at": "2026-05-09"
+      },
+      {
+        "rank": 4,
+        "name": "seaworthy-io/seaworthy-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/seaworthy-io/seaworthy-mcp",
+        "stars": 3,
+        "metric": null,
+        "what": "Disability insurance quote requests and carrier info for agents",
+        "archived": false,
+        "pushed_at": "2026-08-03"
+      },
+      {
+        "rank": 5,
+        "name": "HelloSafe/travel-insurance-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/HelloSafe/travel-insurance-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "Travel insurance quotes from 40+ insurers, hosted",
+        "archived": false,
+        "pushed_at": "2026-08-26"
+      },
+      {
+        "rank": 6,
+        "name": "toddshaner/insurancexdate-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/toddshaner/insurancexdate-mcp",
+        "stars": 2,
+        "metric": null,
+        "what": "Workers'-comp renewal prospecting data inside Claude",
+        "archived": false,
+        "pushed_at": "2026-08-17"
+      },
+      {
+        "rank": 7,
+        "name": "lpb123/whylingxi-insurance-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/lpb123/whylingxi-insurance-mcp",
+        "stars": 1,
+        "metric": null,
+        "what": "Insurance product search, recommendation and underwriting (China)",
+        "archived": false,
+        "pushed_at": "2026-06-09"
+      },
+      {
+        "rank": 8,
+        "name": "sonimaharshi1999/insurance-qa-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/sonimaharshi1999/insurance-qa-mcp-server",
+        "stars": 0,
+        "metric": null,
+        "what": "QA test tooling for Guidewire insurance implementations",
+        "archived": false,
+        "pushed_at": "2026-09-14"
+      },
+      {
+        "rank": 9,
+        "name": "Insurance GPT",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-q5uRuJQ4i-insurance-gpt",
+        "stars": null,
+        "metric": null,
+        "what": "ChatGPT GPT for general insurance explanations"
+      }
+    ],
+    "notes": "Thin vertical: all insurance MCP servers are tiny (0-5 stars) and early; no Applied Epic/AMS MCP found. anthropics/financial-services has no insurance plugin. Broker-agency OSS (AMS/CRM) basically does not exist; repos list leans to actuarial/claims. openimis is health-insurance-scheme software (low stars, real deployments). microsoft/claims-processing-hack excluded as archived. ChatGPT review: several repos (chainladder, lifelib, OasisLMF, insurancerating, cashflower) are carrier/actuarial tools, not broker software; kept because open-source broker software barely exists. Dropped one GPT whose link returned 404 on 2026-09-26."
+  },
+  {
+    "slug": "retail-pos",
+    "business_type": "Physical retail shops & POS / inventory",
+    "title": "10 open-source repos to build AI for retail shops",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "odoo/odoo",
+        "url": "https://github.com/odoo/odoo",
+        "stars": 54686,
+        "what": "ERP with POS, inventory, loyalty and ecommerce in one",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "frappe/erpnext",
+        "url": "https://github.com/frappe/erpnext",
+        "stars": 39563,
+        "what": "Full ERP with retail POS, stock and accounting",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "inventree/InvenTree",
+        "url": "https://github.com/inventree/InvenTree",
+        "stars": 7638,
+        "what": "Inventory, stock locations and purchasing with API and plugins",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "opensourcepos/opensourcepos",
+        "url": "https://github.com/opensourcepos/opensourcepos",
+        "stars": 4403,
+        "what": "Web POS: sales, stock, receipts, customers, reports",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "Blair2004/NexoPOS",
+        "url": "https://github.com/Blair2004/NexoPOS",
+        "stars": 1263,
+        "what": "Laravel POS with inventory, sales and customer management",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "tngoman/Store-POS",
+        "url": "https://github.com/tngoman/Store-POS",
+        "stars": 1040,
+        "what": "Electron till with multi-terminal LAN and catalog",
+        "pushed_at": "2026-09-13",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "FahimAnzamDip/triangle-pos",
+        "url": "https://github.com/FahimAnzamDip/triangle-pos",
+        "stars": 869,
+        "what": "Inventory plus POS for small shops, Laravel",
+        "pushed_at": "2024-10-16",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "ucraft-com/POS-Awesome",
+        "url": "https://github.com/ucraft-com/POS-Awesome",
+        "stars": 515,
+        "what": "Modern Vue POS front end for ERPNext",
+        "pushed_at": "2024-08-12",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "chrisidakwo/EFLInventory-V2",
+        "url": "https://github.com/chrisidakwo/EFLInventory-V2",
+        "stars": 231,
+        "what": "Point-of-sale and inventory tracking for small retail stores",
+        "pushed_at": "2023-01-06",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "elrizwiraswara/flutter_pos",
+        "url": "https://github.com/elrizwiraswara/flutter_pos",
+        "stars": 213,
+        "what": "Flutter mobile POS app, clean architecture starter",
+        "pushed_at": "2026-05-06",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for retail shops",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "stripe/ai",
+        "type": "other",
+        "url": "https://github.com/stripe/ai",
+        "stars": 1836,
+        "metric": null,
+        "what": "Stripe agent toolkit and MCP for payments and billing",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "Shopify/Shopify-AI-Toolkit",
+        "type": "claude-plugin",
+        "url": "https://github.com/Shopify/Shopify-AI-Toolkit",
+        "stars": 577,
+        "metric": null,
+        "what": "Official Shopify plugins for Claude Code, Codex and Cursor",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 3,
+        "name": "square/square-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/square/square-mcp-server",
+        "stars": 108,
+        "metric": null,
+        "what": "Official Square MCP: orders, catalog, inventory, sales",
+        "archived": false,
+        "pushed_at": "2026-04-09"
+      },
+      {
+        "rank": 4,
+        "name": "erpipe-org/mcp-odoo",
+        "type": "mcp-server",
+        "url": "https://github.com/erpipe-org/mcp-odoo",
+        "stars": 415,
+        "metric": null,
+        "what": "Odoo ERP access for agents with gated writes",
+        "archived": false,
+        "pushed_at": "2026-08-25"
+      },
+      {
+        "rank": 5,
+        "name": "ivnvxd/mcp-server-odoo",
+        "type": "mcp-server",
+        "url": "https://github.com/ivnvxd/mcp-server-odoo",
+        "stars": 389,
+        "metric": null,
+        "what": "Connects Claude to Odoo stock, sales and records",
+        "archived": false,
+        "pushed_at": "2026-09-20"
+      },
+      {
+        "rank": 6,
+        "name": "rakeshgangwar/erpnext-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/rakeshgangwar/erpnext-mcp-server",
+        "stars": 120,
+        "metric": null,
+        "what": "Connects Claude to ERPNext items, stock and invoices",
+        "archived": false,
+        "pushed_at": "2026-04-25"
+      },
+      {
+        "rank": 7,
+        "name": "BusyBee3333/lightspeed-mcp-2026-complete",
+        "type": "mcp-server",
+        "url": "https://github.com/BusyBee3333/lightspeed-mcp-2026-complete",
+        "stars": 4,
+        "metric": null,
+        "what": "Lightspeed Retail POS API tools for AI assistants",
+        "archived": false,
+        "pushed_at": "2026-02-13"
+      },
+      {
+        "rank": 8,
+        "name": "inventree/inventree-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/inventree/inventree-mcp",
+        "stars": 3,
+        "metric": null,
+        "what": "Official InvenTree plugin exposing inventory to AI agents",
+        "archived": false,
+        "pushed_at": "2026-09-22"
+      },
+      {
+        "rank": 9,
+        "name": "imtayyab2/loyverse-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/imtayyab2/loyverse-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "Claude reads/writes Loyverse catalog, stock, receipts, reports",
+        "archived": false,
+        "pushed_at": "2026-09-21"
+      },
+      {
+        "rank": 10,
+        "name": "SBolivarLoL/clover-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/SBolivarLoL/clover-mcp-server",
+        "stars": 0,
+        "metric": null,
+        "what": "Clover POS sales, inventory, orders and customers for Claude",
+        "archived": false,
+        "pushed_at": "2026-09-23"
+      }
+    ],
+    "notes": "EFLInventory-V2 is chrisidakwo/EFLInventory-V2 (last push 2023). ERPNext is the one horizontal pick. No worthwhile retail-specific GPT found. Lightspeed/Loyverse/Clover MCPs are small community repos (0-4 stars); Square and InvenTree ones are official."
+  },
+  {
+    "slug": "manufacturing",
+    "business_type": "Small manufacturers & factories",
+    "title": "10 open-source repos to build AI for small factories",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "frappe/erpnext",
+        "url": "https://github.com/frappe/erpnext",
+        "stars": 39563,
+        "what": "ERP with BOMs, work orders and production planning",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "node-red/node-red",
+        "url": "https://github.com/node-red/node-red",
+        "stars": 23688,
+        "what": "Low-code wiring of machines, sensors and APIs on the floor",
+        "pushed_at": "2026-09-18",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "thingsboard/thingsboard",
+        "url": "https://github.com/thingsboard/thingsboard",
+        "stars": 22482,
+        "what": "IoT platform for machine telemetry, dashboards and alarms",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "open-edge-platform/anomalib",
+        "url": "https://github.com/open-edge-platform/anomalib",
+        "stars": 6200,
+        "what": "Visual defect detection models for quality inspection",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "crbnos/carbon",
+        "url": "https://github.com/crbnos/carbon",
+        "stars": 2637,
+        "what": "Open ERP, MES and QMS built for manufacturing",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "metasfresh/metasfresh",
+        "url": "https://github.com/metasfresh/metasfresh",
+        "stars": 2432,
+        "what": "Open-source ERP with production planning, MRP and shop-floor tracking",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 7,
+        "name": "FreeOpcUa/opcua-asyncio",
+        "url": "https://github.com/FreeOpcUa/opcua-asyncio",
+        "stars": 1483,
+        "what": "Python OPC UA client/server to read PLC and machine data",
+        "pushed_at": "2026-09-16",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "qcadoo/mes",
+        "url": "https://github.com/qcadoo/mes",
+        "stars": 940,
+        "what": "Web MES: production orders, planning, materials tracking",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "frePPLe/frepple",
+        "url": "https://github.com/frePPLe/frepple",
+        "stars": 752,
+        "what": "Production and supply chain planning and scheduling",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "ricefishtech/industry4.0-mes",
+        "url": "https://github.com/ricefishtech/industry4.0-mes",
+        "stars": 514,
+        "what": "Open-source MES for production execution (Chinese docs)",
+        "pushed_at": "2026-02-12",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for small factories",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "johannesPettersson80/codesys-mcp-toolkit",
+        "type": "mcp-server",
+        "url": "https://github.com/johannesPettersson80/codesys-mcp-toolkit",
+        "stars": 123,
+        "metric": null,
+        "what": "Lets Claude write and manage CODESYS PLC projects",
+        "archived": false,
+        "pushed_at": "2025-05-24"
+      },
+      {
+        "rank": 2,
+        "name": "thingsboard/thingsboard-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/thingsboard/thingsboard-mcp",
+        "stars": 98,
+        "metric": null,
+        "what": "Official: ask ThingsBoard devices, telemetry and alarms in plain language",
+        "archived": false,
+        "pushed_at": "2026-03-16"
+      },
+      {
+        "rank": 3,
+        "name": "LGDiMaggio/predictive-maintenance-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/LGDiMaggio/predictive-maintenance-mcp",
+        "stars": 96,
+        "metric": null,
+        "what": "Vibration analysis and bearing fault diagnosis for machines",
+        "archived": false,
+        "pushed_at": "2026-09-23"
+      },
+      {
+        "rank": 4,
+        "name": "Czarnak/totally-integrated-claude",
+        "type": "claude-plugin",
+        "url": "https://github.com/Czarnak/totally-integrated-claude",
+        "stars": 63,
+        "metric": null,
+        "what": "Claude Code plugin automating Siemens TIA Portal engineering",
+        "archived": false,
+        "pushed_at": "2026-08-16"
+      },
+      {
+        "rank": 5,
+        "name": "WhiskeyHouse/ignition-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/WhiskeyHouse/ignition-mcp",
+        "stars": 37,
+        "metric": null,
+        "what": "Ignition SCADA tags, alarms, history via its REST API",
+        "archived": false,
+        "pushed_at": "2026-09-23"
+      },
+      {
+        "rank": 6,
+        "name": "kukapay/opcua-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/kukapay/opcua-mcp",
+        "stars": 29,
+        "metric": null,
+        "what": "Read and write OPC UA machine values from Claude",
+        "archived": false,
+        "pushed_at": "2025-10-29"
+      },
+      {
+        "rank": 7,
+        "name": "kukapay/modbus-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/kukapay/modbus-mcp",
+        "stars": 25,
+        "metric": null,
+        "what": "Reads and contextualizes Modbus industrial device data",
+        "archived": false,
+        "pushed_at": "2025-05-12"
+      },
+      {
+        "rank": 8,
+        "name": "cadugrillo/s7-mcp-bridge",
+        "type": "mcp-server",
+        "url": "https://github.com/cadugrillo/s7-mcp-bridge",
+        "stars": 23,
+        "metric": null,
+        "what": "Connects AI agents to Siemens S7-1200/1500 PLCs",
+        "archived": false,
+        "pushed_at": "2026-03-20"
+      },
+      {
+        "rank": 9,
+        "name": "Nodeblue-AI/ignition-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/Nodeblue-AI/ignition-mcp-server",
+        "stars": 10,
+        "metric": null,
+        "what": "AI agents read and work on Ignition SCADA projects",
+        "archived": false,
+        "pushed_at": "2026-09-24"
+      },
+      {
+        "rank": 10,
+        "name": "Lean Six Sigma GPT",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-7AFBcd6sX-lean-six-sigma-gpt",
+        "stars": null,
+        "metric": null,
+        "what": "ChatGPT GPT coaching Lean Six Sigma improvement projects"
+      }
+    ],
+    "notes": "Node-RED and ERPNext are the 2 horizontal picks; ThingsBoard counted as industrial IoT. Chinese MES repos (ricefish, free-mes) have large followings but Chinese-only docs. PLC-writing MCPs should run read-only first on live lines."
+  },
+  {
+    "slug": "salons-beauty",
+    "business_type": "Salons, barbers, spas & beauty businesses",
+    "title": "10 open-source repos to build AI for salons and beauty businesses",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "odoo/odoo",
+        "url": "https://github.com/odoo/odoo",
+        "stars": 54686,
+        "what": "ERP with appointments, POS and memberships for salons",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 2,
+        "name": "calcom/cal.diy",
+        "url": "https://github.com/calcom/cal.diy",
+        "stars": 48655,
+        "what": "Self-hosted booking pages, reminders and staff calendars for appointments.",
+        "pushed_at": "2026-09-26",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "alextselegidis/easyappointments",
+        "url": "https://github.com/alextselegidis/easyappointments",
+        "stars": 4395,
+        "what": "Self-hosted appointment scheduler: services, staff, customer booking, reminders.",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "zllrunning/face-parsing.PyTorch",
+        "url": "https://github.com/zllrunning/face-parsing.PyTorch",
+        "stars": 2589,
+        "what": "Segments hair, skin, lips on a selfie; base for try-on features.",
+        "pushed_at": "2023-05-21",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "ZPdesu/Barbershop",
+        "url": "https://github.com/ZPdesu/Barbershop",
+        "stars": 1439,
+        "what": "Puts a new hairstyle onto a client photo before the cut.",
+        "pushed_at": "2023-06-25",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "wtjiang98/PSGAN",
+        "url": "https://github.com/wtjiang98/PSGAN",
+        "stars": 781,
+        "what": "Transfers a makeup look from a reference photo to a client.",
+        "pushed_at": "2024-03-13",
+        "archived": false
+      },
+      {
+        "rank": 7,
+        "name": "wtybest/HairCLIP",
+        "url": "https://github.com/wtybest/HairCLIP",
+        "stars": 595,
+        "what": "Edits hairstyle and hair colour from a text prompt or reference.",
+        "pushed_at": "2024-04-24",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "Xiaojiu-z/Stable-Hair",
+        "url": "https://github.com/Xiaojiu-z/Stable-Hair",
+        "stars": 539,
+        "what": "Diffusion-based realistic hairstyle try-on on real photos.",
+        "pushed_at": "2025-03-14",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "AIRI-Institute/HairFastGAN",
+        "url": "https://github.com/AIRI-Institute/HairFastGAN",
+        "stars": 253,
+        "what": "Fast virtual hairstyle and colour try-on for consultations.",
+        "pushed_at": "2024-11-15",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "clawnify/OpenSalon",
+        "url": "https://github.com/clawnify/OpenSalon",
+        "stars": 46,
+        "what": "Open-source Fresha alternative: salon bookings, staff, services, scheduling.",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for salons and beauty businesses",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "square/square-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/square/square-mcp-server",
+        "stars": 108,
+        "metric": null,
+        "what": "Official Square MCP: bookings, customers, payments from Claude.",
+        "archived": false,
+        "pushed_at": "2026-04-09"
+      },
+      {
+        "rank": 2,
+        "name": "calcom/cal-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/calcom/cal-mcp",
+        "stars": 30,
+        "metric": null,
+        "what": "Official Cal.com MCP: check availability and manage bookings by chat.",
+        "archived": false,
+        "pushed_at": "2025-05-22"
+      },
+      {
+        "rank": 3,
+        "name": "vespo92/MindbodyMCP",
+        "type": "mcp-server",
+        "url": "https://github.com/vespo92/MindbodyMCP",
+        "stars": 9,
+        "metric": null,
+        "what": "Connects Claude to Mindbody studio schedules, clients and classes.",
+        "archived": false,
+        "pushed_at": "2026-03-31"
+      },
+      {
+        "rank": 4,
+        "name": "mumunha/cal_dot_com_mcpserver",
+        "type": "mcp-server",
+        "url": "https://github.com/mumunha/cal_dot_com_mcpserver",
+        "stars": 3,
+        "metric": null,
+        "what": "Community Cal.com MCP for listing and creating appointments.",
+        "archived": false,
+        "pushed_at": "2025-03-23"
+      },
+      {
+        "rank": 5,
+        "name": "NoBanks/mindbody-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/NoBanks/mindbody-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "Mindbody MCP: client lookup, book appointments, checkout for beauty studios.",
+        "archived": false,
+        "pushed_at": "2026-05-29"
+      },
+      {
+        "rank": 6,
+        "name": "satviksriv/bookings-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/satviksriv/bookings-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "Claude runs the front desk: availability, bookings, revenue reports (salon demo).",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 7,
+        "name": "Elias-Lee-SC/hairstyle-transfer-skill",
+        "type": "claude-skill",
+        "url": "https://github.com/Elias-Lee-SC/hairstyle-transfer-skill",
+        "stars": 0,
+        "metric": null,
+        "what": "Agent skill showing a client a new hairstyle on their photo.",
+        "archived": false,
+        "pushed_at": "2026-06-14"
+      },
+      {
+        "rank": 8,
+        "name": "Acuity Scheduling MCP (Activepieces)",
+        "type": "mcp-server",
+        "url": "https://www.activepieces.com/mcp/acuity-scheduling",
+        "stars": null,
+        "metric": null,
+        "what": "Hosted MCP to manage Acuity appointments and clients from AI."
+      },
+      {
+        "rank": 9,
+        "name": "Fresha Scraper MCP (Apify)",
+        "type": "mcp-server",
+        "url": "https://apify.com/solidcode/fresha-scraper/api/mcp",
+        "stars": null,
+        "metric": null,
+        "what": "Pulls competitor salons, service menus and prices from Fresha."
+      },
+      {
+        "rank": 10,
+        "name": "Hairstyle Image Generator (to show to your barber)",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-TnY0PMCtM-hairstyle-image-generator-to-show-to-your-barber",
+        "stars": null,
+        "metric": null,
+        "what": "Generates haircut reference images for client consultations."
+      }
+    ],
+    "notes": "Few salon-specific open-source repos exist; most salon booking repos are student projects (<100 stars), so list A mixes 2 generic schedulers (cal.com now resolves to calcom/cal.diy via API), OpenSalon (the one real vertical app), and hair/makeup try-on research models (many not recently pushed). No Fresha/Vagaro/Booksy/Phorest MCP found on GitHub; Fresha/Vagaro only via Apify scraper MCPs. Most salon MCPs have 0-9 stars (young). GPT page showed no public conversation metric."
+  },
+  {
+    "slug": "automotive",
+    "business_type": "Auto repair shops, garages & car dealerships",
+    "title": "10 open-source repos to build AI for auto repair shops and dealerships",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "openalpr/openalpr",
+        "url": "https://github.com/openalpr/openalpr",
+        "stars": 11461,
+        "what": "Reads licence plates from camera images for check-in and lot tracking.",
+        "pushed_at": "2024-01-11",
+        "archived": false
+      },
+      {
+        "rank": 2,
+        "name": "commaai/opendbc",
+        "url": "https://github.com/commaai/opendbc",
+        "stars": 3438,
+        "what": "Decodes car CAN bus messages across hundreds of models.",
+        "pushed_at": "2026-09-25",
+        "archived": false
+      },
+      {
+        "rank": 3,
+        "name": "hargata/lubelog",
+        "url": "https://github.com/hargata/lubelog",
+        "stars": 2864,
+        "what": "Self-hosted vehicle service history, maintenance reminders and fuel tracking.",
+        "pushed_at": "2026-09-12",
+        "archived": false
+      },
+      {
+        "rank": 4,
+        "name": "brendan-w/python-OBD",
+        "url": "https://github.com/brendan-w/python-OBD",
+        "stars": 1312,
+        "what": "Python library to read fault codes and live engine data.",
+        "pushed_at": "2025-04-07",
+        "archived": false
+      },
+      {
+        "rank": 5,
+        "name": "barracuda-fsh/pyobd",
+        "url": "https://github.com/barracuda-fsh/pyobd",
+        "stars": 1260,
+        "what": "Open-source OBD-II diagnostic tool for reading and clearing codes.",
+        "pushed_at": "2026-06-26",
+        "archived": false
+      },
+      {
+        "rank": 6,
+        "name": "openvehicles/Open-Vehicle-Monitoring-System-3",
+        "url": "https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3",
+        "stars": 860,
+        "what": "Open telematics module for monitoring connected vehicles",
+        "archived": false,
+        "pushed_at": "2026-09-26"
+      },
+      {
+        "rank": 7,
+        "name": "ankandrew/fast-alpr",
+        "url": "https://github.com/ankandrew/fast-alpr",
+        "stars": 815,
+        "what": "Fast modern licence plate recognition framework.",
+        "pushed_at": "2026-03-16",
+        "archived": false
+      },
+      {
+        "rank": 8,
+        "name": "provrb/obdium",
+        "url": "https://github.com/provrb/obdium",
+        "stars": 392,
+        "what": "Free desktop OBD diagnostics software with live data.",
+        "pushed_at": "2026-09-10",
+        "archived": false
+      },
+      {
+        "rank": 9,
+        "name": "basel-ay/Automated-Car-Damage-Detection",
+        "url": "https://github.com/basel-ay/Automated-Car-Damage-Detection",
+        "stars": 53,
+        "what": "Detects and outlines body damage in car photos for estimates.",
+        "pushed_at": "2023-01-11",
+        "archived": false
+      },
+      {
+        "rank": 10,
+        "name": "dimitar-grigorov/GarageBuddy",
+        "url": "https://github.com/dimitar-grigorov/GarageBuddy",
+        "stars": 50,
+        "what": "Open-source garage management system for repair shops.",
+        "pushed_at": "2024-01-10",
+        "archived": false
+      }
+    ],
+    "ai_addons_title": "10 AI add-ons for Claude/ChatGPT for auto repair shops and dealerships",
+    "ai_addons": [
+      {
+        "rank": 1,
+        "name": "speed785/open-mechanic",
+        "type": "other",
+        "url": "https://github.com/speed785/open-mechanic",
+        "stars": 34,
+        "metric": null,
+        "what": "OBD-II adapter plus Claude gives plain-English diagnosis and repair steps.",
+        "archived": false,
+        "pushed_at": "2026-08-29"
+      },
+      {
+        "rank": 2,
+        "name": "beetlebugorg/tekmetric-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/beetlebugorg/tekmetric-mcp",
+        "stars": 7,
+        "metric": null,
+        "what": "Ask Claude about Tekmetric repair orders, customers, vehicles, appointments.",
+        "archived": false,
+        "pushed_at": "2026-09-17"
+      },
+      {
+        "rank": 3,
+        "name": "petrpatek/obd2-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/petrpatek/obd2-mcp-server",
+        "stars": 4,
+        "metric": null,
+        "what": "Claude reads a car's fault codes and live sensors.",
+        "archived": false,
+        "pushed_at": "2026-05-16"
+      },
+      {
+        "rank": 4,
+        "name": "BrianLeishman/rockauto-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/BrianLeishman/rockauto-mcp",
+        "stars": 4,
+        "metric": null,
+        "what": "Search RockAuto parts catalog and prices by vehicle or part number.",
+        "archived": false,
+        "pushed_at": "2026-03-23"
+      },
+      {
+        "rank": 5,
+        "name": "SiddarthaKoppaka/car_deals_search_mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/SiddarthaKoppaka/car_deals_search_mcp",
+        "stars": 4,
+        "metric": null,
+        "what": "Searches car listings across sites for price and mileage comparison.",
+        "archived": false,
+        "pushed_at": "2025-12-09"
+      },
+      {
+        "rank": 6,
+        "name": "pjdoland/used-car-finder",
+        "type": "claude-skill",
+        "url": "https://github.com/pjdoland/used-car-finder",
+        "stars": 4,
+        "metric": null,
+        "what": "Claude skill that vets used cars, reads Carfax, estimates fair value.",
+        "archived": false,
+        "pushed_at": "2026-05-15"
+      },
+      {
+        "rank": 7,
+        "name": "cyanheads/nhtsa-vehicle-safety-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/cyanheads/nhtsa-vehicle-safety-mcp-server",
+        "stars": 1,
+        "metric": null,
+        "what": "Decode VINs and check recalls, complaints, crash ratings.",
+        "archived": false,
+        "pushed_at": "2026-09-20"
+      },
+      {
+        "rank": 8,
+        "name": "RobertSloan22/tars-car-mcp",
+        "type": "mcp-server",
+        "url": "https://github.com/RobertSloan22/tars-car-mcp",
+        "stars": 0,
+        "metric": null,
+        "what": "Exposes OBD-II, UDS and CAN bus diagnostics to Claude.",
+        "archived": false,
+        "pushed_at": "2026-09-25"
+      },
+      {
+        "rank": 9,
+        "name": "carsxe/carsxe-mcp-server",
+        "type": "mcp-server",
+        "url": "https://github.com/carsxe/carsxe-mcp-server",
+        "stars": 0,
+        "metric": null,
+        "what": "Vehicle data by VIN or plate: specs, history, market value.",
+        "archived": false,
+        "pushed_at": "2026-09-24"
+      },
+      {
+        "rank": 10,
+        "name": "Car Mechanic GPT",
+        "type": "gpt",
+        "url": "https://chatgpt.com/g/g-U5RK57orh-car-mechanic-gpt",
+        "stars": null,
+        "metric": null,
+        "what": "ChatGPT assistant for diagnosing symptoms and explaining repairs."
+      }
+    ],
+    "notes": "Automotive has real hardware/diagnostic OSS (OBD, CAN, ALPR) but almost no maintained open-source shop-management or dealer-DMS apps; GarageBuddy last pushed 2024, pitstop is a reference sample, openalpr last pushed 2024. All automotive MCPs are young (0-7 stars). patclarke/mcp-tekmetric and klkhlt/tekmetric-mcp 404'd and were dropped. No dealer DMS (CDK/Reynolds) MCP found. GPT page showed no public conversation metric."
+  }
+]
